@@ -1,6 +1,6 @@
 # Inhoudsopgave {#inhoudsopgave .TOC-Heading}
 
-minor edit
+
 
 [Hoofdstuk 1: Biomimetica en Quantum Technologie
 [3](#_Toc162000866)](#_Toc162000866)

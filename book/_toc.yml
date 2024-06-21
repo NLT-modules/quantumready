@@ -4,6 +4,11 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: chapters/proloog
+    - file: chapters/chapter1
+    - file: chapters/chapter2
+
+
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
