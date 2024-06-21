@@ -15,5 +15,3 @@ sphinx-exercise
 
 # lastly any packages you wish to download directly from a Git repository
 download_link_replacer @ git+https://gitlab.tudelft.nl/mude/sphinx-download-link-replacer #temporarily disable
-git clone https://github.com/executablebooks/sphinx-exercise
-python setup.py install
