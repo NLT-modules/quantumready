@@ -1,7 +1,6 @@
-
 # Biomimetica en Quantum Technologie
 
-``` {excercise} Startopdracht
+``` {exercise} Startopdracht
 In dit hoofdstuk maak je kennis met de twee concepten die de basis van deze module vormen: biomimetica en quantum sensoren.
 ```
 
