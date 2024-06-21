@@ -4,12 +4,6 @@
 In dit hoofdstuk maak je kennis met de twee concepten die de basis van deze module vormen: biomimetica en quantum sensoren.
 ```
 
-# Hoofdstuk 1: Biomimetica en Quantum Technologie
-
-## Startopdracht
-
-In dit hoofdstuk maak je kennis met de twee concepten die de basis van deze module vormen: biomimetica en quantum sensoren.
-
 ## Wat is biomimetica?
 
 Goed kijken naar hoe de natuur werkt kan ons helpen met het ontwikkelen van nieuwe technologie. Veel van onze technologische uitdagingen zijn namelijk al door de natuur opgelost in een proces van miljarden jaren aan evolutie. Hoe houd je overdag iets koel of ’s nachts warm? Hoe zet je licht om in bruikbare energie? Hoe maak je iets waterafstotend? Dat zijn allemaal vragen waar wetenschappers, technici en ingenieurs zich mee bezig houden. Soms kijken ze daarvoor goed naar de natuur om nieuwe oplossingen te vinden. Bewust de functionaliteit van de natuur nadoen heet biomimetica of in het Engels biomimicry. In plaats van leren over de natuur leer je van de natuur. Het volgende voorbeeld laat dat goed zien.

@@ -3,6 +3,7 @@ root: intro.md
 
 parts:
   - caption: Contents
+    numbered: true
     chapters:
     - file: chapters/proloog
     - file: chapters/chapter1
