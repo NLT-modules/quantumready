@@ -1,4 +1,4 @@
-# # Licht waarnemen en maken
+# Licht waarnemen en maken
 
 ## Inleiding
 
