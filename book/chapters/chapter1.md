@@ -1,14 +1,14 @@
 # Biomimetica en Quantum Technologie
 
-## Opdracht 1.1. Startopdracht
-
+```{exercise} Startopdracht
 In dit hoofdstuk maak je kennis met de twee concepten die de basis van deze module vormen: biomimetica en quantum sensoren.
+```
 
-### 1.1. Wat is biomimetica?
+## Wat is biomimetica?
 
 Goed kijken naar hoe de natuur werkt kan ons helpen met het ontwikkelen van nieuwe technologie. Veel van onze technologische uitdagingen zijn namelijk al door de natuur opgelost in een proces van miljarden jaren aan evolutie. Hoe houd je overdag iets koel, of 's nachts warm? Hoe zet je licht om in bruikbare energie? Hoe maak je iets waterafstotend? Dat zijn allemaal vragen waar wetenschappers, technici en ingenieurs zich mee bezig houden. Soms kijken ze daarvoor goed naar de natuur om nieuwe oplossingen te vinden. Bewust de functionaliteit van de natuur nadoen heet biomimetica of in het Engels biomimicry. In plaats van leren over de natuur leer je van de natuur. Het volgende voorbeeld laat dat goed zien.
 
-### 1.2. Vliegen als voorbeeld van biomimetica
+## Vliegen als voorbeeld van biomimetica
 
 In een mythe uit de Griekse oudheid maakt de uitvinder Daedalus vleugels uit veren en bijenwas voor hem en zijn zoon om van het eiland Kreta weg te kunnen vliegen. Ondanks waarschuwingen van zijn vader vliegt Icarus te dicht bij de zon waardoor de bijenwas smelt. Icarus stort neer in de Icarische Zee en verdrinkt (figuur 1a).
 
@@ -78,7 +78,7 @@ Zoek informatie in ten minste drie verschillende bronnen om in je eigen woorden 
 
 Welke impact heeft dat gehad op de moderne luchtvaart?
 
-## Opdracht 1.3. Match de natuur en de toepassing
+```{exercise} Match de natuur en de toepassing
 
 Hieronder vind je twee lijsten. De eerste bevat beschrijvingen van een biomimetische toepassing (nummers $1 \mathrm{t} / \mathrm{m} 9$ ), geïnspireerd op een dier. De tweede bevat een aantal dieren (letters A t/m I). Probeer bij iedere technologische toepassing (nummer) het juiste dier of plant (letter) te vinden en stel zo een lijst met voorbeelden van biomimetica samen. Noteer hiervoor de nummers $1 \mathrm{t} / \mathrm{m} 9$ in je schrift en noteer daar achter de juiste letters A t/m I. Een antwoord is al gegeven: $7=\mathrm{H}$.
 
@@ -100,6 +100,8 @@ Commented [LK4]: Uiteindelijk moeten we de opdrachten denk ik een andere achterg
 Commented [RO5R4]: Eens. Aan het eind een vormgever (TA van IO of zo?) aan de slag zetten.
 
 Commented [LK6]: Alternatief: laat drie leerlingen elk één andere bron vinden.
+
+
 
 NLT Module Quantum Ready
 
@@ -125,6 +127,7 @@ G Oregano
 
 ![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=416&width=374&top_left_y=1057&top_left_x=498)
 I Lotusblad
+```
 
 Opdracht 1.4. Match de natuur en de toepassing (vervolg)
 
