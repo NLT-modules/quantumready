@@ -1,0 +1,383 @@
+# Fluorescentie en microscopie
+
+### 3.1. Inleiding
+
+In het vorige hoofdstuk heb je gezien dat licht bestaat uit energiepakketjes, fotonen genaamd. De materiaaleigenschappen van leds kunnen zo veranderd worden dat ze fotonen uitzenden die
+
+Commented [RO77]: Toch nog eens nadenken of daar een overeenkomen met verschillende kleuren licht. Leds kun je ook gebruiken als fotoreceptor: fotonen betere beschrijving voor is. Het woord lijkt bijna infantiel maar ik denk dat een leerling er misschien toch geen beeld met voldoende energie kunnen een spanning over de led opwekken. Ook de kegeltjes in je oog zijn gevoelig voor bepaalde golflengten en dus ook voor fotonen van een bepaald energie. De overeenkomst is dat lichtenergie wordt omgezet in een elektrisch signaal.
+
+Er bestaan ook een processen waarbij licht wordt omgezet in een andere kleur licht. Een voorbeeld is fluorescentie. Veel dieren blijken te fluoresceren: vliegende eekhoorns, vogelbekdieren, nesten van wespen, kwallen en ook tropische kikkers, zoals uit het volgende artikel blijkt.
+
+## Onderzoekers vinden de eerste natuurlijke fluorescerende kikkersoort
+
+Zuid-Amerika is de thuisbasis van allerlei gek uitziende amfibieën, van levendige pijlgifkikkers tot cartoon-achtige roodogige boomkikkers. Een andere voegde zich net bij de gelederen: de ZuidAmerikaanse boomkikker, Hypsiboas punctatus.
+
+In zichtbaar licht ziet de kikker er gewoontjes uit, met kleine rode stippen over zijn verder groene lichaam. Maar als je er een beetje ultraviolet licht op schijnt wordt het een heel ander verhaal. Onderzoekers zeggen dat Hypsiboas punctatus de enig bekende, van nature fluorescerende amfibie is.
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-29.jpg?height=403&width=1154&top_left_y=1392&top_left_x=197)
+
+De Zuid-Amerikaanse boomkikker in zichtbaar licht (links) en UV-licht (rechts).
+
+Fluorescentie treedt op wanneer een oppervlak korte golflengten licht absorbeert en het bij
+
+Commented [LK78]: Polka-dot tree frog langere golflengte weer uitzendt. Wanneer UV-licht, met een korte golflengte, bijvoorbeeld een Er is geen Nederlandse naam voor, ik gebruik daarom ZuidAmerikaanse boomkikker fluorescerend object raakt, dan zendt het zichtbaar licht, met een langere golflengte, weer uit. Hoewel veel onderwatersoorten, waaronder vissen, koralen, haaien en zelfs zeeschildpadden fluorescerende lichaamsdelen hebben, is het fenomeen zeldzaam bij landdieren en is het alleen waargenomen bij bepaalde soorten papegaaien en schorpioenen.
+
+De ontdekking van de fluorescentie van de Zuid-Amerikaanse boomkikker was geheel toevallig. Onderzoeker Julian Faivovich en zijn collega's van het Natuurwetenschappen Museum in Buenos Aires, Argentinië, bestudeerden de pigmenten in de boomkikker toen ze UV-licht op de kikker schenen. "Voor sommige dingen die we van plan waren te doen, moesten we de kikkerweefsels verlichten met UV-licht", vertelt Faivovich. "Toen realiseerden we ons dat de hele kikker
+
+Commented [LK79]: Beeld afkomstig uit:
+
+https://www.pnas.org/doi/full/10.1073/pnas. 1701053114
+
+Rechten nog onduidelijk fluorescerend was."
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here.
+
+Het biologische nut van de fluorescentie is grotendeels onbekend en is misschien niet belangrijk om te overleven. Veel dieren kunnen oplichten omdat ze toevallig veelvoorkomende, van nature fluorescerende moleculen in hun lichaam hebben, niet omdat er een bijzonder voordeel is.
+
+De onderzoekers ontdekten dat het blauwgroene licht dat de kikkers afgeven overeenkomt met de kleur licht waar de kikkers het meest gevoelig voor zijn. De fluorescentie maakt de kikkers 30 procent helderder tijdens de schemering en 19 procent helderder tijdens de volle maan. Hoewel het misschien toeval is, is het mogelijk dat de fluorescentie de kikkers 's nachts zichtbaar maakt voor elkaar, wanneer ze het meest actief zijn.
+
+Het zou kunnen dat dit niet de enige oplichtende kikker is. Er bestaan 250 andere boomkikkers met vergelijkbare kenmerken, waaronder een doorschijnende huid, die de onderzoekers graag zouden willen onderzoeken. "Ik hoop echt dat andere collega's ook geïnteresseerd zullen zijn in dit fenomeen en dat ze een UV-zaklamp mee het wild in nemen." zegt Faivovich.
+
+Vertaalde en bewerkte versie van: Daley, Jason (15 maart 2017). Researchers Find the First Naturally Fluorescent Frog Species. Smithsonian Magazine. https://www.smithsonianmag.com/smart-news/researchers-find-first-fluorescent-frogspecies-180962538/Geraadpleegd: 14 juni 2024
+
+Het verschijnsel dat dieren fluoresceren wordt biofluorescentie genoemd. De vraag is of die fluorescentie ergens goed voor is, of dat de stoffen in deze dieren, naast hun reguliere functie toevallig ook blijken te fluoresceren. Omdat de tropische boomkikkers gevoelig zijn voor het uitgezonden licht, denken de onderzoekers dat het wel een functie zou kunnen hebben. Welke is nog onduidelijk.
+
+Wetenschappers zijn om meerdere redenen geïnteresseerd in biofluorescentie. Ze willen begrijpen hoe die dieren kunnen fluoresceren en welke biologische functie het heeft. De stoffen die in deze dieren fluoresceren zijn ook interessant voor medische toepassingen. Zo wordt de stof in de kristalkwal gebruikt om chemische processen in levende organismen zichtbaar te maken zoals het volgende filmpje laat zien:
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-30.jpg?height=728&width=963&top_left_y=1635&top_left_x=181)
+
+Commented [LK80]: Kan dit zo? Ik heb het artikel vertaald, aangepast en ingekort.
+
+```
+Commented [LK81]: Evt. uitwerken:
+```
+
+- kristalkwal is ook bioluminiscent
+- in dat proces is GFP een fluorescerend onderdeel
+- dat molecuul is nu ook genetisch te modificeren om de
+
+kleur aan te passen
+
+- en in te bouwen in organismen
+- zo is met fluorescentiemicroscopie de chemische processen
+
+zichtbaar te maken
+
+Aardig overzicht in
+
+https://www.leica-microsystems.com/science-lab/life-
+
+science/fluorescent-proteins-from-the-beginnings-to-the-
+nobel-prize/
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here.
+
+```
+Opdracht 3.1. Practicum: olijfolie|
+```
+
+extra vierge olijfolie.
+licht gebeurt.
+
+## Benodigdheden:
+
+- Flesje met olijfolie (extra vierge),
+- Twee flesjes met water,
+- Rode laserpen,
+- Groene laserpen,
+- Plantenspuit met water,
+- Witte muur of vel wit papier
+
+Olijfolie wordt gemaakt door olijven te persen. De duurste en vaak lekkerste olijfolie komt uit de
+eerste persing: extra vierge olijfolie. Deze olijfolie bevat bladgroen en dat bladgroen fluoresceert. Olijfolie van latere persingen fluoresceert minder of helemaal niet. Dankzij fluorescentie kunnen inspecteurs controleren of goedkope olijfolie van latere persingen niet verkocht wordt als dure
+
+In dit practicum onderzoek je met behulp van extra vierge olijfolie wat er bij fluorescentie met het
+
+Veiligheid: Schijn nooit met een laser in iemands oog. Voorkom ook dat reflecties van het laserlicht in een oog terecht kan komen.
+
+Uitvoering:
+
+1. Schijn met de rode laserpen op de muur: kun je de lichtstraal zelf zien? Waarom wel, waarom niet?
+2. Vernevel in het pad van de laserstraal water met de plantenspuit. Bespreek met elkaar wat je waarneemt en of je nu de laserstraal zelf ziet.
+3. Plaats in de volgende volgorde tegen elkaar: flesje met water, flesje olijfolie, flesje water
+4. Schijn met de rode laserpen door de drie flesjes. Beschrijf je waarnemingen.
+5. Schijn met de groene laserpen door de drie flesjes. Beschrijf je waarnemingen.
+
+Er zijn (minstens) twee verklaringen voor wat je in stap 5 waarneemt:
+
+A. Groen licht wordt in de extra vierge olijfolie rood/oranje. Het rood/oranje licht wordt in het water weer groen.
+
+B. Een deel van het groene licht wordt in de extra vierge olijfolie rood/oranje en een deel gaat ongestoord verder als groen licht.
+
+6. Leg uit dat beide verklaringen met de waarnemingen overeen lijken te komen.
+7. Leg uit dat verklaring B beter overeenkomt met je waarnemingen in stap 1 en 2.
+8. Bedenk met elkaar welke proef je zou kunnen doen om verklaring A te controleren.
+
+### 3.2. Fluorescentie
+
+Bij fluorescentie wordt een foton met voldoende energie geabsorbeerd door een molecuul: het foton verdwijnt en de energie van het foton is in het molecuul opgenomen. Het molecuul komt daardoor in een toestand met meer energie, ofwel een hogere energietoestand. Een deel van de energie gaat verloren aan warmte of trillingen in het molecuul en vervolgens zendt het molecuul de rest van de energie uit in de vorm van een foton met een energie kleiner dan de energie van het foton dat het proces in gang zette. In een formule:
+
+$$
+E_{\mathrm{f}, \mathrm{in}}=E_{\mathrm{f}, \mathrm{uit}}+Q
+$$
+
+Commented [LK82]: Op basis van Show de Fysica artikel/hoofdstuk... Nog verder uitwerken.
+
+Commented [RO83]: Even scherp: weet de leerling al dat het foton dan verdwijnt en dat er niet een soort 'restje' foton
+
+Commented [RO84]: Is dat niet hetzelfde? Warmte = macro, trillingen $=$ micro? Je zou kunnen overwegen om hie een illustratie bij te maken / geven waarmee je laat zien hoe een molecuul kan trillen. Extra stukje diepgang / mogelijke leerling vraag kan dan het begrip zijn dat waterstof niet kan fluoresceren. Veel andere stoffen overigens ook niet, maar dat heeft dan met de ligging van de energieniveaus te maken.
+
+Toevoeging: er kan natuurlijk ook nog energie verloren gaan via het uitzenden van fotonen met een heeeeeeele laaaaaaange golflengte. Zie opmerking hieronder.
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+## 1;Hoofdstuk to the text that you want to appear here.
+
+Waarbij $Q$ de warmte is die bij het proces ontstaat. Wat deze vergelijking ook uitdrukt: energie is behouden. Met andere woorden, de wet van behoud van energie houdt in dat de totale energie in een gesloten systeem op elk moment gelijk is. Je zult deze wet nog vaker tegenkomen in deze module.
+
+Je kunt dit proces ook grafisch weergeven in een energiediagram (figuur 3.1). Verticaal staat de energie uitgezet. Het pijltje omhoog staat voor de energiesprong in het molecuul door het opnemen van een foton ( $E_{\mathrm{f}, \mathrm{in}}$ ). Het slingerende pijltje omlaag staat voor de warmte die ontstaat $(Q)$. Het pijltje omlaag is de energiesprong die het molecuul maakt bij het uitzenden van een foton ( $E_{\mathrm{f}, \text { uit }}$ ). Het pijltje omlaag is korter dan het pijltje omhoog: het foton dat wordt uitgezonden heeft minder energie dan het foton dat wordt geabsorbeerd.
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-32.jpg?height=317&width=254&top_left_y=995&top_left_x=181)
+
+Figuur 3.1 Energiediagram van het proces fluorescentie. (Bron: https://chem.libretexts.org/Bookshelves/Physical and Theoretical Chemistry Textbook Maps/Supp lemental Modules (Physical and Theoretical Chemistry)/Spectroscopy/Electronic Spectroscopy/Ja blonski diagram, natekenen en aanpassen door fotonen in te tekenen)
+
+## Opdracht 3.2. Fluorescentie bij kikkers
+
+De fluorescerende Zuid-Amerikaanse boomkikkers blijken het sterkst te fluoresceren bij licht met een golflengte van $400 \mathrm{~nm}$. Het uitgezonden licht is het sterkst bij een golflengte van $460 \mathrm{~nm}$.
+
+a) Leg uit waarom de golflengte van het uitgezonden licht langer is dan die van het geabsorbeerde licht. Maak gebruik van figuur 3.1
+
+b) Bereken hoeveel energie er per foton in warmte wordt omgezet. Druk je antwoord uit in joule en in eV.
+
+c) Teken het bijbehorende energieniveauschema voor de fluorescentie in de Zuid-Amerikaanse boomkikker. Zorg dat je de energie op schaal tekent. Rechts zie je een voorbeeld. In het energieniveauschema staat er geen grootheid langs de horizontale as uitgezet. Begin in de grondtoestand: hier is de energie $0 \mathrm{eV}$.
+
+De quantum yield is het aantal uitgezonden fotonen per geabsorbeerd foton. Ook bij veel andere quantumprocessen wordt dit begrip gebruikt, bijvoorbeeld bij de werking van het oog en het functioneren van zonnepanelen. De quantum yield van de fluorescentie bij boomkikkers is 0,12 : voor iedere 100 geabsorbeerde fotonen worden er gemiddeld 12 nieuwe uitgezonden. De huid van de boomkikker reflecteert relatief weinig straling bij $460 \mathrm{~nm}$ : minder dan $8 \%$.
+
+d) Leg hiermee uit dat te verwachten is dat de fluorescentie bij de boomkikker goed zichtbaar.
+Commented [RO85]: In het energiediagram zie ik alleen de fotonenergie, niet de Q. Die Q kan dus trillingsenergie zijn maar kan ook bestaan uit allemaal fotonen met een hele lage energie? Ik weet niet of leerlingen zo kritisch zijn, tegelijkertijd, als ze dat niet zijn wil dat eigenlijk zeggen dat ze het diagram niet begrijpen.
+
+Commented [LK87]: Voor fluorescentie moet je dus licht hebben met een korte golflengte. Die wordt geabsorbeerd en vervolgens wordt er licht uitgezonden met een langere golflengte. Het is niet altijd makkelijk om fluorescentie waar te nemen. Dat komt doordat:
+
+-Het signaal zwak is: er worden weinig fotonen uitgezonden als gevolg van fluorescentie;
+
+-Het invallende licht deels wordt gereflecteerd door de fluorescerende stof: b.v. de huid van het dier dat fluoresceert;
+
+Er teveel omgevingslicht is, feller dan het fluorescerende signaal.
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here.
+
+### 3.3. Filters en spectrofotometers
+
+Je bent verschillende keren grafieken tegengekomen waarin staat uitgezet wat de lichtintensiteit of gevoeligheid is als functie van de golflengte van het licht. Bijvoorbeeld bij de eigenschappen van het oog, of de straling uitgezonden door een led. Die grafieken zijn gemaakt met een spectrofotometers of een spectroscoop.
+
+In toepassingen waar gebruik wordt gemaakt van fluorescentie is het vaak nodig om alleen te kijken naar het fluorescerende signaal, niet naar het licht dat was gebruikt om de stof te laten fluoresceren. Dan wordt gebruik gemaakt van filters, waarbij alleen bepaalde straling wordt doorgelaten en de rest wordt tegengehouden. De Zuid-Amerikaanse boomkikker fluoresceert maximaal $30 \%$ (zie artikel boven).
+
+In figuur 3.x zie je hoeveel licht een blauwfilter doorlaat als functie van de golflengte.
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-33.jpg?height=588&width=1191&top_left_y=1074&top_left_x=181)
+
+Figuur 3.x Een blauwfilter: Op de $y$-as het percentage van het licht dat wordt doorgelaten als functie van de golflengte (op de $x$-as).
+
+## Opdracht 3.3. Practicum: fluorescentie onderzoeken
+
+In dit practicum onderzoek je waar fluorescentie vanaf hangt door gebruik te maken van stoffen die je in de keuken zou kunnen tegenkomen: quinine uit tonic (frisdrank), kurkuma (een specerij), chlorofyl uit spinazie en chlorogeenzuur uit aubergine.
+
+De practicumbeschrijving is apart beschikbaar.
+
+### 3.4. Toepassing: energiezuinige lamper
+
+In 2008 besloot de EU om gloeilampen uit te faseren. Ze zijn erg inefficiënt in het omzetten van elektrische energie in licht. Een gloeilamp bevat een metalen draad waar een elektrische stroom doorheen loopt. De draad wordt heet, gaat gloeien en zendt elektromagnetische straling uit. De temperatuur van de draad bepaalt welke straling er uitgezonden wordt. In 2014 ging de Nobelprijs voor natuurkunde naar de uitvinding van de blauwe led die energiezuinige verlichting mogelijk
+Commented [LK88]: Mogelijkheden om uit te werken: $\bullet$ Zelf filter/spectroscoop maken? Zie ook Opdracht 2.17 https://hackaday.io/project/181144-raspberry-pispectrometer (ca. 100 pond + Raspberry Pi) https://www.thorlabs.com/newgrouppage9.cfm?objectgro up id=6930 (ca. Euro 1500,-)
+
+https://webshop-english.cma-science.nl/subjectareas/biology/sensors/usb-sensors/spectrometer-hd usb.html (+ lichtbron voor E 1200,--
+
+-Manieren om het licht uiteen te rafelen in verschillende kleuren: tralie en/of prisma - Gebruik van een filter voor kleurenblinden om weer kleur te zien
+
+Commented [LK89]: Voorbeeld van
+
+https://leefilters.com/colour/071-tokyo-blue
+
+Schaalverdeling $x$-as: links $=400 \mathrm{~nm}$, stappen van $100 \mathrm{~nm}$. Zelf geschikte grafieken tekenen.
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here.
+
+maakte. Samen met fluorescentie is het mogelijk om met een blauwe led licht te maken dat wij waarnemen als wit licht.
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-34.jpg?height=319&width=466&top_left_y=640&top_left_x=178)
+
+Figuur 3.2 Spectrum van twee soorten witte leds. (bron onbekend; grafiek natekenen)
+
+## Opdracht 3.4. Werking witte led
+
+Voor de uitvinding van de blauwe led werden witte leds gemaakt op basis van drie afzonderlijke kleuren leds: rood, groen en blauw. Deze leds kun je kopen als rgb-leds.
+
+a) Leg met behulp van de theorie uit Hoofdstuk 2: uit dat het licht van een rgb-led eruit ziet als wit licht.
+
+b) Welke golflengte moeten de afzonderlijke leds hebben om er voor het menselijk oog wit uit te zien? Schets voor een rgb- led de lichtintensiteit als functie van de golflengte.
+
+Een witte led op basis van een blauwe led zendt wit licht uit met behulp van een laagje fluorescerend fosfor. Het spectrum van dit type led zit je in figuur 3.2. In het vervolg wordt deze led een witte led genoemd.
+
+c) Leg uit waarom het wel mogelijk is om met een blauwe led met behulp van fluorescentie groen, geel en rood licht te maken, maar het niet mogelijk is om met bijvoorbeeld een rode led en fluorescentie blauw licht te maken.
+
+d) Leg met behulp van figuur 3.2 uit dat de witte led er ook voor ons wit uitziet. Maak ook gebruik van het figuur uit Hoofdstuk 2: met de gevoeligheid van kegeltjes in het oog.
+
+De temperatuur van de gloeidraad in een gloeilamp bepaalt welke straling er uitgezonden wordt. Bij een temperatuur van $2300^{\circ} \mathrm{C}$ ziet het spectrum er uit zoals in figuur 3.3. Alle elektrische energie wordt hierbij omgezet in straling.
+
+e) Leg hiermee uit dat het rendement van een gloeilamp heel laag is. Probeer met behulp van figuur 3.3 een schatting te maken voor dit rendement.
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-34.jpg?height=386&width=517&top_left_y=1800&top_left_x=198)
+
+Figuur 3.3 Spectrum van een gloeilamp bij $2300^{\circ} \mathrm{C}$. Op de verticale as staat de energie uitgezonden bij een bepaalde golflengte. (bron: PhET, natekenen)
+
+Je hebt nu drie manieren gezien om wit licht te maken: met een gloeilamp een rgb-led en met een witte led op basis van fluorescentie. Onze ogen zijn geëvolueerd op basis van zonlicht. Het
+Commented [LK91]: https://www.youtube.com/watch?v= AF8d72mA41M
+
+Commented [RO92]: Mooi dat we net kunnen doen alsof de spaarlamp nooit bestaan heeft :P Daarvoor is het wel handig als leerlingen weten dat de Nobelprijs niet wordt uitgereikt voor een uitvinding gedaan in 2014 maar dat blauwe LEDs commercieel beschikbaar zijn sinds 1989 ;);
+
+Commented [LK93]: natekenen
+
+Commented [RO94]: Het kan ook anders (RGB led). Ik zou hier nog even expliciet verwijzen naar de regenboog van eerder: wit licht bevat alle k'eurer[^10]
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here.
+
+spectrum van de zon lijkt op dat van een gloeilamp, maar de temperatuur is veel hoger, zie figuur 3.4.
+
+![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-35.jpg?height=403&width=529&top_left_y=644&top_left_x=181)
+
+Figuur 3.4 Spectrum van de zon $\left(5500^{\circ} \mathrm{C}\right)$. (bron: PhET, natekenen)
+
+Vergelijk het spectrum dat je in opdracht b) hebt getekend met dat van een witte led (figuur 3.2) en een gloeilamp (figuur 3.3)
+
+f) Welk van de spectra komt het meest overeen met dat van de zon (figuur 3.4)?
+
+De led witte lijkt dus veel efficiënter dan de gloeilamp. De vergelijking is niet helemaal eerlijk, want figuur 3.2 laat alleen het zichtbare licht zien dat uitgezonden wordt door de witte led. Een deel van de elektrische energie wordt omgezet in warmte, net als bij fluorescentie het geval is. De blauwe led heeft ook een quantum yield.
+
+### 3.5. Toepassing: Fluorescentiemicroscopie
+
+Een gewone lichtmicroscoop, zoals je op school kunt gebruiken, heeft een belangrijk nadeel: details die kleiner zijn dan de golflengte van het licht worden onscherp. Veel processen in dede cellen van levende wezens vinden juist plaats op een schaal die kleiner is dan de golflengte van zichtbaar licht. In de cel zorgen microtubuli bijvoorbeeld voor de structurele stevigheid van de cel, spelen een rol in celdeling en het transport van moleculen in de cel. Ze kunnen wel $50 \mu \mathrm{m}$ lang en slechts $20 \mathrm{~nm}$ breed zijn. Die zijn met een lichtmicroscoop niet zichtbaar te maken. Een ander probleem bij een lichtmicroscoop is dat verschillende celonderdelen licht even goed doorlaten en dus niet van elkaar te onderscheiden zijn: er is weinig contrast. Daarom kleuren biologen hun preparaten. Vaak overleven cellen zo'n kleuring niet, waardoor het niet langer mogelijk is processen te onderzoeken in levende cellen.
+
+Fluorescentiemicroscopie lost een aantal van deze problemen op. Door stoffen aan de cel toe te voegen die hechten aan de delen die onderzocht worden, lichten deze op onder de microscoop. Veel stoffen die gebruikt worden in fluorescentiemicroscopie zijn echter giftig en net als bij het kleuren van cellen, is het dan niet langer mogelijk om processen in levende cellen te onderzoeken.
+
+In 2008 ging de nobelprijs voor scheikunde naar Osamu Shimomura, Martin Chalfie en Roger Y. Tsien voor de ontdekking van en verdere ontwikkeling van groen fluorescerend eiwit. In het Engels is dat green fluorescent protein, afgekort GFP.
+
+## Opdracht 3.5. Resolutie van een microscoop
+
+Lichtmicroscopen werken met zichtbaar licht, dat zal je niet verbazen. De golflengte van licht ligt in de orde van honderden nanometers. Voor ons heel klein. Op onze schaal lijkt licht daardoor in een rechte lijn te bewegen. Daarom hebben we het vaak over lichtstralen. Maar als je op kleine schaal kijkt, dan blijkt licht om voorwerpen heen te buigen. Je merkt daar het meest van als de opening
+Commented [LK97]: natekenen
+
+```
+Commented [LK98]: Eventueel uitwerken; quantum
+yield/efficiency kan ik niet zo snel vinden.
+```
+
+Commented [LK99]: Gebruik in microscopie, wat zijn de
+
+voordelen, wat is er voor nodig? Mogelijk in de klas (?):
+
+https://www.scienceinschool.org/article/2022/fluorescence-
+
+microscopy-classroom/ of
+
+https://nightsea.com/articles/fluorescence-for-education-
+
+and-outreach/
+
+Eventueel zelf bouwen met:
+
+https://doi.org/10.1021/ed100290w
+
+Waarom een bepaalde korte golflengte voor excitatie
+
+gebruiken icm een filter en niet bijvoorbeeld licht met een
+
+breed spectrum?
+
+Commented [LK100]: Hier past dan misschien een activiteit op basis van de tekst van Rutger over een haar in je laser
+
+Commented [RO101]: Geef wat (of 1 heel goed) voorbeeld(en)
+
+Commented [LK102R101]: Eens: ik zit te denken aan b.v. het onderzoek van Marileen Dogterom (TU Delft) die in beeld brengt hoe microtubuli in de cel werken.
+
+Commented [LK103]: Fasecontrastmicroscopie lost dat deels op
+
+Commented [LK104]: Probleem daar weer mee: het hele beeld fluoresceert en dat verlaagt het signaal tegen de ruis. Oplossing is confocal microscopie belicht alleen een klein punt en dek het fluorescerende licht af dat van andere punten komt. Dan moet je scannen, want je ziet maar één punt van je preparaat.
+
+Upgrade is STED waarbij het punt dat belicht wordt kleiner kan zijn door een ander laserprofiel. Het scannen blijtt.
+
+Commented [RO105R104]: Misschien een keertje een brainstorm aanvragen met Hylkje?
+
+Commented [LK106]: Herschrijven zonder verwijzing naar de nobelprijs.
+
+
+#### Abstract
+
+NLT Module Quantum Ready Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here.
+
+waar het licht doorheen gaat, of het obstakel dat het licht tegenkomt dezelfde orde van grootte heeft als de golflengte van het licht. Dat is lastig als je een microscoop gebruikt om bijvoorbeeld organellen in een cel waar te nemen.
+
+Verband voor resolutie
+
+Schatting afmeting organel in cel
+
+Waarom kun je microtubuli niet zien als ze wel lang genoeg zijn?
+
+
+### 3.6. Toepassing: Quantumdots
+
+Quantumdots zijn kleine kristallen gemaakt van halfgeleidermateriaal. Ze zijn slechts enkele nanometer in diameter. Door die kleine afmeting gedragen de elektronen in quantumdots zich anders: ze kunnen alleen licht absorberen van een bepaalde gofllengte en zenden het weer uit bij een langere golflengte. Kortom: quantumdots fluoresceren. Door het materiaal waarvan de quantumdot is gemaakt slim te kiezen en door de afmeting aan te passen kunnen er quantumdots gemaakt worden met de gewenste optische eigenschappen.
+
+Quantumdots worden gebruikt in beeldschermen, in zonnepanelen en in biologisch onderzoek.
+
+## Commented [LK107]: uitwerken
+
+Commented [LK108]: Schets; eventueel uitwerken.
+
+Zelf quantumdots maken en fluorescentie onderzoeken met eerdere technieken? Maken van de quantumdots blijft lastig.
+
+https://doi.org/10.1021/acs.jchemed.8b00114
+
+NLT Module Quantum Ready
+
+Error! Use the Home tab to apply Kop
+
+1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+
+1 ;Hoofdstuk to the text that you want to appear here.

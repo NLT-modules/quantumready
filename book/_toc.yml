@@ -5,10 +5,13 @@ parts:
   - caption: Contents
     numbered: true
     chapters:
-    - file: chapters/QMreadytotaal
+    #- file: chapters/QMreadytotaal
     - file: chapters/proloog
     - file: chapters/chapter1
     - file: chapters/chapter2
+    - file: chapters/chapter3
+    - file: chapters/chapter4
+    - file: chapters/chapter5
 
 
     - file: some_content/overview.md
