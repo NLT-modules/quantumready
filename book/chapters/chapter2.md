@@ -562,7 +562,7 @@ e) Bepaal de helling van de trendlijn. Geef je antwoord in de juiste eenheid.
 
 In Opdracht 2.14 heb je gezien dat de hoeveelheid energie van een foton afhangt van de kleur licht en dus van de frequentie $f$. Voor de energie $E_{f}$ van een foton geldt de volgende formule:
 
-$E_{f}=h \cdot f$
+$$ E_{f}=h \cdot f $$ (fotonenergie)
 
 De letter $h$ staat voor een constante, de zogenoemde constante van Planck. De eenheid van $E_{f}$ is joule (J). De eenheid van $f$ is $\mathrm{Hz}$. De helling die je in Opdracht 2.14 hebt bepaald is bij benadering gelijk aan de constante van Planck $h$. De literatuurwaarde is: $h=6,626 \cdot 10^{-34} \mathrm{~J} \cdot \mathrm{s}$. Uit formule (2) volgt dat in een bundel licht van precies één kleur alle energiepakketjes even veel energie hebben
 
