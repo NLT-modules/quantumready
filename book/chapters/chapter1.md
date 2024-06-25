@@ -16,37 +16,6 @@ Het tragische verhaal van Icarus illustreert dat mensen al duizenden jaren fanta
 
 In 1903 voeren de gebroeders Wright de eerste gemotoriseerde vliegtuigvlucht uit (figuur 1.1c). Ze hadden in de jaren daarvoor uitgebreid gewerkt aan het ontwerpen van vleugels die tijdens de vlucht van vorm kunnen veranderen om zo het toestel stabiel te houden, net zoals vogels dat doen. Mocht je ooit in een vliegtuig bij het raam zitten let dan eens op de vleugel. Die verandert tijdens de vlucht ook van vorm.
 
-<div style='text-align: center;'>
-
-![Val van Icarus](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184) | ![Vleugelontwerp van Leonardo da Vinci](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=311&width=397&top_left_y=1895&top_left_x=518) | ![De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=317&width=434&top_left_y=1892&top_left_x=934)
-:-------------------------:|:-------------------------:|:-------------------------:
-Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy $\left(17^{\mathrm{e}} \mathrm{eeuw}\right)$|Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci.|Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.
-
-```{figure} https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184 
----
-height: 200px
-name: fig:Icarus
----
-Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy $\left(17^{\mathrm{e}} \mathrm{eeuw}\right)$
-```
-
-```{figure} https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=311&width=397&top_left_y=1895&top_left_x=518 
----
-height: 200px
-name: fig:daVinci
----
-Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci.
-```
-
-```{figure} https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=317&width=434&top_left_y=1892&top_left_x=934
----
-height: 200px
-name: fig:Wright
----
-Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.
-```
-
-
 
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
@@ -63,7 +32,6 @@ Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.
     </figure>
 </div>
 
-</div>
 <!-- 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
     <div style="text-align: center;">
@@ -125,15 +93,6 @@ Hieronder vind je twee lijsten. De eerste bevat beschrijvingen van een biomimeti
 | 8 | Ecologische schimmelbestrijdingsmiddel |
 | 9 | Watervaste, ecologische lijm |
 
-|![picture ABC](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=392&width=1162&top_left_y=1962&top_left_x=203) | alsjd | oauidh |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|A Termietenheuvel | B Ijsvogel | C Mosselen |
-| ![Citroenhaai](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=394&width=417&top_left_y=614&top_left_x=200) | ![Cyphochilus Kever](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=400&width=303&top_left_y=614&top_left_x=611) | ![Figuur 1.2f: Example](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=403&width=469&top_left_y=615&top_left_x=902) |
-| D Citroenhaai | E Cyphochilus Kever | F Bultrugwalvis |
-| ![Figuur 1.2g: Example](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=404&width=1168&top_left_y=1048&top_left_x=200) | ![Figuur 1.2h: Example](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=416&width=374&top_left_y=1057&top_left_x=498) | ![Figuur 1.2i: Example](https://example.com/image9.jpg) |
-| G Oregano | H Bijen | I Lotusblad |
-```
-
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
     <figure style="text-align: center; margin-right: 20px;">
         <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=392&width=1162&top_left_y=1962&top_left_x=203" alt="A Termietenheuvel" style="height: 200px;">
@@ -178,6 +137,10 @@ Hieronder vind je twee lijsten. De eerste bevat beschrijvingen van een biomimeti
         <figcaption>I Lotusblad</figcaption>
     </figure>
 </div>
+
+```
+
+
 
 <!--Niet al deze fotos zijn nu correct, ABC moeten gesplit worden, net als GHI-->
 
@@ -232,9 +195,16 @@ ___
 
 Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie figuur 1.3).
 
-|![Koeltorens](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=508&top_left_y=1005&top_left_x=203)| ![Ingenieurs MIT](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=568&top_left_y=1005&top_left_x=775)|
-|:-------------------------:|:-------------------------:|
-|Figuur 1.3: Water ontsnapt via koeltorens naar de atmosfeer.|Figuur 1.4: Ingenieurs van MIT bij hun prototype. Bron: https://energy.mit.edu/news/new-systemrecovers-fresh-water-from-power-plants/|
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <figure style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=508&top_left_y=1005&top_left_x=203" alt="Koeltorens" style="height: 200px;">
+        <figcaption>Figuur 1.3: Water ontsnapt via koeltorens naar de atmosfeer.</figcaption>
+    </figure>
+    <figure style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=568&top_left_y=1005&top_left_x=775" alt="Ingenieurs MIT" style="height: 200px;">
+        <figcaption>Figuur 1.4: Ingenieurs van MIT bij hun prototype. Bron: https://energy.mit.edu/news/new-systemrecovers-fresh-water-from-power-plants/</figcaption>
+    </figure>
+</div>
 
 Daarom ontwikkelen ingenieurs van het Massachusetts Institute of Technology (MIT) een systeem dat water van koeltorens opvangt om het te kunnen hergebruiken (figuur 1.4). Ze spannen daarvoor een elektrisch geladen net boven de koeltoren. Het opstijgende water krijgt de tegenovergestelde lading en wordt daardoor naar het net getrokken. Het water verzamelt zich op het net, waarna het naar beneden drupt. Bijen kunnen op een vergelijkbare manier bloemen vinden en het stuifmeel van de bloem blijft op eenzelfde manier aan de poten van de bij plakken.
 
@@ -242,9 +212,10 @@ Naar: New systems recovers fresh water from power plants, MIT News,
 https://news.mit.edu/2018/new-system-recovers-fresh-water-power-plants-0608
 
 ___
+
 Elektrisch geladen deeltjes, zoals het water en het net, hoeven elkaar niet aan te raken om elkaar te kunnen beïnvloeden. Dat komt omdat ieder elektrisch geladen deeltje een elektrisch veld zich heen heeft. Dat veld kun je niet zien met het blote oog of onder een microscoop. Maar je kunt wel voelen dat het er is![^1]
 
-Commented [LK11]: Ik vind de uitwerking van $7 \mathrm{H}$ hieronder nog niet zo duidelijk terug komen. Het gaat in de toepassing meer om de aantrekkingskracht en het blijven plakken van stuifmeel. In de uitwerking hier onder meer over het waarnemen van het elektrisch veld. Nog geen suggestie hoe het anders te doen.
+<!-- Commented [LK11]: Ik vind de uitwerking van $7 \mathrm{H}$ hieronder nog niet zo duidelijk terug komen. Het gaat in de toepassing meer om de aantrekkingskracht en het blijven plakken van stuifmeel. In de uitwerking hier onder meer over het waarnemen van het elektrisch veld. Nog geen suggestie hoe het anders te doen.
 
 Commented [LK12]: Dit is een beetje een sprong.
 
@@ -252,11 +223,9 @@ Commented [RO13R12]: Ja dat klopt. Komt omdat dit er later bij is geschreven. Ik
 
 Commented [LK14]: Bron
 
-Commented [LK15]: Het nieuwsartikel heeft het over een ionenbundel die de druppels eerst een elektrische lading geeft.
+Commented [LK15]: Het nieuwsartikel heeft het over een ionenbundel die de druppels eerst een elektrische lading geeft. -->
 
-## Field Code Changed
-
-```
+<!-- ```
 Commented [LK16]: Mooi voorbeeld. Dit is we
 biomimetica na de daad, want WiFi is toch niet geïnspireerc
 op communicatie tussen bijen?
@@ -266,26 +235,32 @@ water. Het is en uitwerking van 7H uit opdracht 1.2. Zie
 filmpje https://youtu.be/2pU5Yksk-pc
 Wifi is inderdaad een parallel die je de leerling mee zou
 kunnen geven maar het is geen biomimetica.
-```
+``` -->
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
-
+```{exersize}
+Voor de volgende proef heb je nodig:
+-	kunststof kleding of kunststof doek (bijvoorbeeld van polyester)
+-	ballon
+Voer de volgende proef uit en beantwoord de vragen:
+1)	Blaas de ballon op en knoop hem dicht. 
+2)	Wrijf met de ballon een aantal keer snel over je kleding of de doek. De ballon krijgt zo een negatieve elektrische lading.
+3)	Houd de ballon vervolgens dicht bij haartjes op je arm. 
 4) Beschrijf wat je ziet en beschrijf wat je voelt.
 5) Bepaal vanaf welke afstand je dit voelt en druk je antwoord uit in je lichaamslengte. Bijvoorbeeld: als je het effect voelt op $0,8 \mathrm{~m}$ en jij bent $1,6 \mathrm{~m}$ lang, dan voel je het effect op 0,5 lichaamslengtes.
+```
 
 De ballon in Opdracht 1.5 is geladen en oefent op afstand een kracht uit op de haartjes op je arm. Zo zou je op iedere positie rond de buis een bepaald effect kunnen verwachten. Natuurkundigen vatten die invloed afhankelijk van positie samen met het begrip veld. En omdat het om een elektrische kracht gaat heet het in dit geval een elektrisch veld.
 
 Het blijkt dat bijen op een vergelijkbare manier het elektrisch veld van een bloem kunnen voelen. Komen ze dichtbij een bloem, ongeveer vanaf $10 \mathrm{~cm}$, dan buigen haartjes op hun lijf af. Dat afbuigen zorgt voor een signaal in het zenuwstelsel van de bij. Een afstand van 10 centimeter klinkt misschien als weinig maar bedenk dat dit overeenkomt met ongeveer 5 lichaamslengtes van een bij! Het elektrisch veld dat een bloem maakt verschilt per bloemsoort. Bijen kunnen dus kleur, geur en het elektrisch veld gebruiken om verschillende bloemen te herkennen. In figuur 1.5 is het elektrisch veld rond een bloem zichtbaar gemaakt.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-08.jpg?height=437&width=617&top_left_y=1181&top_left_x=180)
 
-Figuur 1.5: Simulatie van de sterkte van het elektrisch veld tussen een bloem en een bij.
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <figure style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-08.jpg?height=437&width=617&top_left_y=1181&top_left_x=180" alt="Simulation electric field" style="height: 200px;">
+        <figcaption>Figuur 1.5: Simulatie van de sterkte van het elektrisch veld tussen een bloem en een bij.</figcaption>
+    </figure>
+</div>
+
 
 Niet alleen tijdens het vliegen maar ook met andere bewegingen maken bijen steeds wisselende elektrische velden. Ook die wisselende elektrische velden kunnen bijen waarnemen, zowel met de haartjes als met een zintuig in hun antennes. Het vermoeden bestaat dat bijen op afstand met elkaar kunnen communiceren door verschillende elektrische signalen te herkennen.
 
@@ -295,15 +270,7 @@ Mensen gebruiken ook elektrische (en elektromagnetische) signalen om met elkaar 
 
 Uit Opdracht 1.5 blijkt dat mensen wel het elektrisch veld kunnen voelen, maar er niet zo gevoelig voor zijn als een bij. De mens mist hiervoor een fijn ontwikkeld zintuig. Als je een elektrisch veld wil waarnemen met dezelfde (of meer) precisie als een bij dan moet je hiervoor een kunstmatig zintuig gebruiken. Zo'n kunstmatig zintuig noemen we een sensor. Een sensor zet een meetbare grootheid om in een elektrisch signaal dat we kunnen aflezen op een voltmeter of verwerkt kan worden door een computer.
 
-## Opdracht 1.6. Zintuigen en sensoren
-
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here.
+```{exersize} 1.6. Zintuigen en sensoren
 
 De mens heeft verschillende zintuigen die je kunt zien als biologische sensor.
 
@@ -312,27 +279,26 @@ a) Maak een lijst met zintuigen die een mens heeft.
 b) Probeer bij elk zintuig een sensor (kunstmatig zintuig) te vinden en noteer deze. Bijvoorbeeld: Gehoor ( $20 \mathrm{~Hz}$ tot $20 \mathrm{kHz}$ ) $\rightarrow$ Microfoon Als je informatie opzoekt vermeld dan de bronnen die je gebruikt hebt.
 
 c) Maak ook een lijst met zintuigen die (sommige) dieren wel hebben maar mensen niet. Zoek ook daarbij weer een voorbeeld van een sensor en vermeld je bronnen.
+```
 
-NLT Module Quantum Ready
+```{exersize} 1.7. Practicum: elektrisch veld sensor
 
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here.
-
-Opdracht 1.7. Practicum: elektrisch veld sensor
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <figure style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-10.jpg?height=297&width=561&top_left_y=577&top_left_x=790" alt="circuit" style="height: 200px;">
+        <figcaption>Figuur 1.6: Een eenvoudige sensor om het elektrisch veld te meten.</figcaption>
+    </figure>
+</div>
 
 In deze opdracht maak je met slechts een paar onderdelen een eenvoudige sensor die elektrische velden kan oppikken. Het doel van deze opdracht is iets te bouwen dat werkt maar niet om precies te begrijpen hoe het werkt, dat komt later in de module aan bod. Het schema is gegeven in figuur 1.6. De onderdelen uit het schema vind je in onderstaande tabel met een foto.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-10.jpg?height=297&width=561&top_left_y=577&top_left_x=790)
 
-Figuur 1.6: Een eenvoudige sensor om het elektrisch veld te meten.
 
 | Onderdeel | Functie | Onderdeel | Functie |
 | :--- | :--- | :--- | :--- |
-|  | JFET Transistor: regelt de <br> stroom in het circuit. Dit <br> is de eigenlijke sensor. | Levert energie om de led <br> te laten branden |  |
-|  | led: is een indicator voor <br> de hoeveelheid <br> negatieve lading. Als er <br> geen lading in de buurt <br> is dan brandt de led. De <br> lange pin is de plus (+) |  | Batterijclip om de batterij <br> aan te sluiten. |
+| ![transistor]() | JFET Transistor: regelt de <br> stroom in het circuit. Dit is de eigenlijke sensor. |![batterij]() | Levert energie om de led <br> te laten branden |  |
+| ![led]() | led: is een indicator voor <br> de hoeveelheid <br> negatieve lading. Als er <br> geen lading in de buurt <br> is dan brandt de led. De <br> lange pin is de plus (+) | ![batterijclip]() | Batterijclip: om de batterij <br> aan te sluiten. |
+| ![weerstand]() | Weerstand: werkt als antenne en beschermt de transistor tegen statische elektriciteit. | ![breadboard]() | Breadboard: Wordt gebruikt om de onderdelen in te klikken en met elkaar te verbinden.|
 
 Voer de volgende opdrachten uit:
 
@@ -345,35 +311,15 @@ c) Onderzoek hoe de sensor reageert in de buurt van een negatief geladen ballon 
 d) Wapper de ballon heen en weer op verschillende afstanden. Over welke afstand kan de sensor de aanwezigheid van de ballon nog meten? Kun je de sensor van een andere groep beïnvloeden?
 
 e) Werk samen met andere groepen: plaats jullie sensor in een zelfbedacht patroon, bijvoorbeeld allemaal op een rij op gelijke afstand van elkaar. Onderzoek hoe je zo kunt meten hoe het elektrisch veld rond de ballon eruit ziet. Dit is een beetje te vergelijken met de simulatie uit figuur 1.5 van de bij en de bloem.
+```
 
 ### 1.6. Quantummechanica
 
-Je hebt in Opdracht 1.7 je eerste quantumsensor gemaakt! De led en de transistor zijn namelijk gemaakt van het halfgeleidermateriaal silicium. Zoals je hebt gezien kun je prima apparaten bouwen
+Je hebt in Opdracht 1.7 je eerste quantumsensor gemaakt! De led en de transistor zijn namelijk gemaakt van het halfgeleidermateriaal silicium. Zoals je hebt gezien kun je prima apparaten bouwen met halfgeleiders zonder precies te weten waarom het werkt. Dat is wat elektrotechnisch ingenieurs doen: met een paar vuistregels ontwerpen ze heel veel nuttige circuits. Maar wil je beter begrijpen wat er in de halfgeleider gebeurt en waarom het reageert op een elektrisch veld, dan moet je een beetje quantummechanica kennen.
 
-NLT Module Quantum Ready
+```{exersize}1.8. Wat weet je al van quantum?
 
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
-
-met halfgeleiders zonder precies te weten waarom het werkt. Dat is wat elektrotechnisch ingenieurs doen: met een paar vuistregels ontwerpen ze heel veel nuttige circuits. Maar wil je beter begrijpen wat er in de halfgeleider gebeurt en waarom het reageert op een elektrisch veld, dan moet je een beetje quantummechanica kennen.
-
-Opdracht 1.8. Wat weet je al van quantum?
-
-Je hebt de term quantum, met of zonder 'mechanica', misschien al eens gehoord.
-
-Bespreek met elkaar of en waar je de term bent tegengekomen. Noteer begrippen die volgens
-
-jullie met quantum te maken hebben en wat 'quantum' volgens jullie betekent.
+Je hebt de term quantum, met of zonder 'mechanica', misschien al eens gehoord. Bespreek met elkaar of en waar je de term bent tegengekomen. Noteer begrippen die volgens jullie met quantum te maken hebben en wat 'quantum' volgens jullie betekent.
+```
 
 In het volgende hoofdstuk duik je dieper in de wereld van de quantummechanica.
-
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
