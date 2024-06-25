@@ -139,10 +139,12 @@ niet tevreden. De vraag is: wat willen we dat leerlingen toelichten?
 
 Commented [LK9]: Ik denk dat het bruggetje meer is: We gaan biologische systemen op microscopische schaal gebruiken als inspiratie voor technologische toepassingen. Daarvoor is nieuwe natuurkunde nodig: de quantummechanica. Vliegen was alleen een voorbeeld voor biomimetica. Het voorbeeld van de kever en het water is een voorbeeld van een microsopische toepassing.[^0] -->
 
-
-### Het elektrisch veld
+(E-veld)=
+## Het elektrisch veld
 
 Lees onderstaand artikel.
+
+> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie figuur 1.3).
 
 ```{article.unnumbered} Vers water uit energiecentrales
 
@@ -219,7 +221,7 @@ Niet alleen tijdens het vliegen maar ook met andere bewegingen maken bijen steed
 
 Mensen gebruiken ook elektrische (en elektromagnetische) signalen om met elkaar te communiceren. Denk bijvoorbeeld aan radio en wifi. Dat is niet direct afgekeken van de natuur maar wel een voorbeeld van hoe de natuur gebruik maakt van dezelfde natuurkundige principes als de mens.
 
-### Sensoren
+## Sensoren
 
 Uit Opdracht 1.5 blijkt dat mensen wel het elektrisch veld kunnen voelen, maar er niet zo gevoelig voor zijn als een bij. De mens mist hiervoor een fijn ontwikkeld zintuig. Als je een elektrisch veld wil waarnemen met dezelfde (of meer) precisie als een bij dan moet je hiervoor een kunstmatig zintuig gebruiken. Zo'n kunstmatig zintuig noemen we een sensor. Een sensor zet een meetbare grootheid om in een elektrisch signaal dat we kunnen aflezen op een voltmeter of verwerkt kan worden door een computer.
 
@@ -266,11 +268,11 @@ d) Wapper de ballon heen en weer op verschillende afstanden. Over welke afstand 
 e) Werk samen met andere groepen: plaats jullie sensor in een zelfbedacht patroon, bijvoorbeeld allemaal op een rij op gelijke afstand van elkaar. Onderzoek hoe je zo kunt meten hoe het elektrisch veld rond de ballon eruit ziet. Dit is een beetje te vergelijken met de simulatie uit figuur 1.5 van de bij en de bloem.
 ```
 
-### 1.6. Quantummechanica
+## Quantummechanica
 
 Je hebt in Opdracht 1.7 je eerste quantumsensor gemaakt! De led en de transistor zijn namelijk gemaakt van het halfgeleidermateriaal silicium. Zoals je hebt gezien kun je prima apparaten bouwen met halfgeleiders zonder precies te weten waarom het werkt. Dat is wat elektrotechnisch ingenieurs doen: met een paar vuistregels ontwerpen ze heel veel nuttige circuits. Maar wil je beter begrijpen wat er in de halfgeleider gebeurt en waarom het reageert op een elektrisch veld, dan moet je een beetje quantummechanica kennen.
 
-```{exercise}Wat weet je al van quantum?
+```{exercise} Wat weet je al van quantum?
 
 Je hebt de term quantum, met of zonder 'mechanica', misschien al eens gehoord. Bespreek met elkaar of en waar je de term bent tegengekomen. Noteer begrippen die volgens jullie met quantum te maken hebben en wat 'quantum' volgens jullie betekent.
 ```
