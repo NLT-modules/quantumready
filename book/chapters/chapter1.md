@@ -68,9 +68,20 @@ Commented [LK3]: Als je dat bedoelt -->
 ```{exercise} Nog Een Betere Vleugel
 Rond 1970 stelt Richard Whitcomb, ingenieur bij NASA, voor het ontwerp van een vliegtuigvleugel
 aan te passen zodat deze meer lijkt op de vleugel van een zwevende adelaar. Zie figuur 1.2 a t/m c.
-![Vliegtuigvleugel zonder aanpassing]() | ![Zwevende adelaar](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=320&width=437&top_left_y=688&top_left_x=570) | ![De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=317&width=368&top_left_y=687&top_left_x=998)
-:-------------------------:|:-------------------------:|:-------------------------:
-Figuur 1.2a: Vliegtuigvleugel zonder aanpassing.| 1.2b: Zwevende adelaar. (Foto door Derek Keats).|Figuur 1.2c: Uiteinde van een vliegtuigvleugel met Whitcombs aanpassing.
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184" alt="vleugel zonder aanpassingen" style="height: 200px;">
+        <figcaption>Figuur 1.2a: Vliegtuigvleugel zonder aanpassing.</figcaption>
+    </figure>
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=320&width=437&top_left_y=688&top_left_x=570" alt="adelaar" style="height: 200px;">
+        <figcaption> 1.2b: Zwevende adelaar. (Foto door Derek Keats).</figcaption>
+    </figure>
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=317&width=368&top_left_y=687&top_left_x=998" alt="Whitcombs." style="height: 200px;">
+        <figcaption>Figuur 1.2c: Uiteinde van een vliegtuigvleugel met Whitcombs aanpassing.</figcaption>
+    </figure>
+</div>
 
 Zoek informatie in ten minste drie verschillende bronnen om in je eigen woorden onderstaande vragen te beantwoorden. Geeft daarbij duidelijk aan welke informatie uit welke bron afkomstig is. Gebruik tussen de 250 en 500 woorden.
 
@@ -79,7 +90,12 @@ Zoek informatie in ten minste drie verschillende bronnen om in je eigen woorden 
 3. Welke impact heeft dat gehad op de moderne luchtvaart?
 ```
 
+<iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" aria-label="Exercise 1.3" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ```{exercise} Match de natuur en de toepassing
+
+<iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" aria-label="Exercise 1.3" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 Hieronder vind je twee lijsten. De eerste bevat beschrijvingen van een biomimetische toepassing (nummers 1 t/m 9), geïnspireerd op een dier. De tweede bevat een aantal dieren (letters A t/m I). Probeer bij iedere technologische toepassing (nummer) het juiste dier of plant (letter) te vinden en stel zo een lijst met voorbeelden van biomimetica samen. Noteer hiervoor de nummers 1 t/m 9 in je schrift en noteer daar achter de juiste letters A t/m I. Een antwoord is al gegeven: 7 = H.
 
@@ -163,7 +179,7 @@ c) Gebruik je bronnen om in je eigen woorden uit te leggen wat het verband is tu
 Geef duidelijk aan welke informatie uit welke bron afkomstig is en gebruik tussen de 250 en 500 woorden.
 ```
 
-### 1.3. Technologie en biomimetica
+### Technologie en biomimetica
 
 Biomimetica is niet alleen kijken naar de natuur. Het is een proces waarbij observeren, meten, onderzoeken en ontwerpen een belangrijke rol spelen. Zo vergeleek Richard Whitcomb de vleuge van een vliegtuig met de vleugel van een adelaar en haalde daar inspiratie uit. Hij heeft vervolgens verschillende modelvleugels gemaakt en de luchtweerstand gemeten in een windtunnel.
 
@@ -186,12 +202,11 @@ niet tevreden. De vraag is: wat willen we dat leerlingen toelichten?
 Commented [LK9]: Ik denk dat het bruggetje meer is: We gaan biologische systemen op microscopische schaal gebruiken als inspiratie voor technologische toepassingen. Daarvoor is nieuwe natuurkunde nodig: de quantummechanica. Vliegen was alleen een voorbeeld voor biomimetica. Het voorbeeld van de kever en het water is een voorbeeld van een microsopische toepassing.[^0] -->
 
 
-### 1.4. Het elektrisch veld
+### Het elektrisch veld
 
 Lees onderstaand artikel.
 
-___
-### Vers water uit energiecentrales
+```{article.unnumbered} Vers water uit energiecentrales
 
 Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie figuur 1.3).
 
@@ -211,7 +226,7 @@ Daarom ontwikkelen ingenieurs van het Massachusetts Institute of Technology (MIT
 Naar: New systems recovers fresh water from power plants, MIT News,
 https://news.mit.edu/2018/new-system-recovers-fresh-water-power-plants-0608
 
-___
+```
 
 Elektrisch geladen deeltjes, zoals het water en het net, hoeven elkaar niet aan te raken om elkaar te kunnen beïnvloeden. Dat komt omdat ieder elektrisch geladen deeltje een elektrisch veld zich heen heeft. Dat veld kun je niet zien met het blote oog of onder een microscoop. Maar je kunt wel voelen dat het er is![^1]
 
