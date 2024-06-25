@@ -144,6 +144,8 @@ Commented [LK9]: Ik denk dat het bruggetje meer is: We gaan biologische systemen
 
 Lees onderstaand artikel.
 
+> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie figuur 1.3).
+
 ```{article.unnumbered} Vers water uit energiecentrales
 
 Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie figuur 1.3).
