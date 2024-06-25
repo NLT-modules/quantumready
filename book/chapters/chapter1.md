@@ -96,9 +96,6 @@ Probeer de puzzle hieronder op te lossen. Links vindt je 9 boxen met daarin een 
 <iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" aria-label="Exercise 1.3" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
-
-
-
 <!--Niet al deze fotos zijn nu correct, ABC moeten gesplit worden, net als GHI-->
 
 <!-- Commented [LK4]: Uiteindelijk moeten we de opdrachten denk ik een andere achtergrondkleur geven, zodat duidelijk is waar de tekst weer verder gaat.
@@ -111,7 +108,7 @@ Commented [LK6]: Alternatief: laat drie leerlingen elk één andere bron vinden.
 
 In Opdracht 1.3 heb je kennis gemaakt met een aantal voorbeelden van biomimetica. Bij ieder voorbeeld is een video beschikbaar die je van de docent krijgt.
 
-a) Kies één voorbeeld van biomimetica uit Opdracht 1.3 (maar niet 7H).
+a) Kies één voorbeeld van biomimetica uit Opdracht 1.3.
 
 b) Zoek bij dat voorbeeld, naast de video twee aanvullende bronnen.
 
@@ -193,7 +190,7 @@ Wifi is inderdaad een parallel die je de leerling mee zou
 kunnen geven maar het is geen biomimetica.
 ``` -->
 
-```{exersize}
+```{exercise} Practicum: statische elektriciteit waarnemen
 Voor de volgende proef heb je nodig:
 -	kunststof kleding of kunststof doek (bijvoorbeeld van polyester)
 -	ballon
@@ -222,11 +219,11 @@ Niet alleen tijdens het vliegen maar ook met andere bewegingen maken bijen steed
 
 Mensen gebruiken ook elektrische (en elektromagnetische) signalen om met elkaar te communiceren. Denk bijvoorbeeld aan radio en wifi. Dat is niet direct afgekeken van de natuur maar wel een voorbeeld van hoe de natuur gebruik maakt van dezelfde natuurkundige principes als de mens.
 
-### 1.5. Sensoren
+### Sensoren
 
 Uit Opdracht 1.5 blijkt dat mensen wel het elektrisch veld kunnen voelen, maar er niet zo gevoelig voor zijn als een bij. De mens mist hiervoor een fijn ontwikkeld zintuig. Als je een elektrisch veld wil waarnemen met dezelfde (of meer) precisie als een bij dan moet je hiervoor een kunstmatig zintuig gebruiken. Zo'n kunstmatig zintuig noemen we een sensor. Een sensor zet een meetbare grootheid om in een elektrisch signaal dat we kunnen aflezen op een voltmeter of verwerkt kan worden door een computer.
 
-```{exersize} 1.6. Zintuigen en sensoren
+```{exercise} Zintuigen en sensoren
 
 De mens heeft verschillende zintuigen die je kunt zien als biologische sensor.
 
@@ -237,7 +234,7 @@ b) Probeer bij elk zintuig een sensor (kunstmatig zintuig) te vinden en noteer d
 c) Maak ook een lijst met zintuigen die (sommige) dieren wel hebben maar mensen niet. Zoek ook daarbij weer een voorbeeld van een sensor en vermeld je bronnen.
 ```
 
-```{exersize} 1.7. Practicum: elektrisch veld sensor
+```{exercise} Practicum: elektrisch veld sensor
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
     <figure style="text-align: center; margin-right: 20px;">
@@ -273,7 +270,7 @@ e) Werk samen met andere groepen: plaats jullie sensor in een zelfbedacht patroo
 
 Je hebt in Opdracht 1.7 je eerste quantumsensor gemaakt! De led en de transistor zijn namelijk gemaakt van het halfgeleidermateriaal silicium. Zoals je hebt gezien kun je prima apparaten bouwen met halfgeleiders zonder precies te weten waarom het werkt. Dat is wat elektrotechnisch ingenieurs doen: met een paar vuistregels ontwerpen ze heel veel nuttige circuits. Maar wil je beter begrijpen wat er in de halfgeleider gebeurt en waarom het reageert op een elektrisch veld, dan moet je een beetje quantummechanica kennen.
 
-```{exersize}1.8. Wat weet je al van quantum?
+```{exercise}Wat weet je al van quantum?
 
 Je hebt de term quantum, met of zonder 'mechanica', misschien al eens gehoord. Bespreek met elkaar of en waar je de term bent tegengekomen. Noteer begrippen die volgens jullie met quantum te maken hebben en wat 'quantum' volgens jullie betekent.
 ```
