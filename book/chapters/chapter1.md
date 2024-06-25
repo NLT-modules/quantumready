@@ -93,7 +93,7 @@ Zoek informatie in ten minste drie verschillende bronnen om in je eigen woorden 
 ```{exercise} Match de natuur en de toepassing
 Probeer de puzzle hieronder op te lossen. Links vindt je 9 boxen met daarin een omschrijving van technologische toepassing geïnspireerd op een dier/plant, rechts vindt je 9 verschillende dieren/planten die bij een van deze omschrijving hoort. Probeer de goede plant/dier bij de goede omschrijving te vinden. 
 
-<iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" aria-label="Exercise 1.3" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ```
 <!--Niet al deze fotos zijn nu correct, ABC moeten gesplit worden, net als GHI-->

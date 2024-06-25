@@ -1,24 +1,37 @@
 # Licht waarnemen en maken
 
-### 2.1. Inleiding
+### Inleiding
 
 In het vorige hoofdstuk heb je kennisgemaakt met een toepassing van de quantummechanica: de sensor voor het elektrisch veld maakte gebruik van halfgeleidermateriaal. Quantummechanica is een natuurkundige theorie die het gedrag van licht, materie en hun interactie beschrijft. Vaak wordt deze theorie gebruikt om het gedrag te beschrijven van dingen die we niet met het blote oog kunnen zien, zoals koolstofverbindingen (figuur 2.1a), bladgroencellen (figuur 2.1b) en zelfs kleine beestjes zoals het beerdiertje (figuur 2.1c).
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=311&width=305&top_left_y=895&top_left_x=196)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=311&width=305&top_left_y=895&top_left_x=196" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.1a: AFMopname van een koolstof-molecuul ( $2 \mathrm{~nm}$ breed).</figcaption>
+    </figure>
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=314&width=417&top_left_y=894&top_left_x=500" alt="Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci." style="height: 200px;">
+        <figcaption>Figuur 2.1b: Bladgroencellen in de mossoort Plagiomnium affine. Elke groene stip heeft een diameter van $5 \mu \mathrm{m}$.</figcaption>
+    </figure>
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=320&width=457&top_left_y=894&top_left_x=914" alt="Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903." style="height: 200px;">
+        <figcaption>Figuur 2.1c: Een beerdiertje onder de microscoop (lengte $0.3 \mathrm{~mm}$ ).</figcaption>
+    </figure>
+</div>
 
-Figuur 2.1a: AFMopname van een koolstof-molecuul ( $2 \mathrm{~nm}$ breed).
-
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=314&width=417&top_left_y=894&top_left_x=500)
-
-Figuur 2.1b: Bladgroencellen in de mossoort Plagiomnium affine. Elke groene stip heeft een diameter van $5 \mu \mathrm{m}$.
-
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=320&width=457&top_left_y=894&top_left_x=914)
-
-Figuur 2.1c: Een beerdiertje onder de microscoop (lengte $0.3 \mathrm{~mm}$ ).
 Quantummechanica drukt een groot stempel op de wereld om je heen, ook al is dat niet altijd direct zichtbaar. Apparaten zoals een USB-stick, een laser en een led-lamp zouden niet mogelijk zijn zonder quantummechanica. Bovendien komen we er meer en meer achter dat ook in biologische processen quantummechanica een belangrijke rol moet spelen. We weten vaak nog niet precies hoe, maar wel dat het zo is. Ondertussen wordt er hard gewerkt aan het ontwikkelen van nieuwe quantum technologieën.
 
-In deze module maak je kennis met een aantal voorbeelden van zowel oude als nieuwe quantumtechnologie. Daarbij wordt regelmatig de vergelijking gemaakt met de natuur of gebruik je technologie om de natuur beter te kunnen bestuderen. Dit hoofdstuk gaat over de vraag: wat is licht en hoe neem je het waar?[^2]
+In deze module maak je kennis met een aantal voorbeelden van zowel oude als nieuwe quantumtechnologie. Daarbij wordt regelmatig de vergelijking gemaakt met de natuur of gebruik je technologie om de natuur beter te kunnen bestuderen. Dit hoofdstuk gaat over de vraag: wat is licht en hoe neem je het waar?
 
+```{exercise} Nogmaals de Bij
+In hoofdstuk 1 heb je gezien dat bijen het elektrisch veld kunnen gebruiken om te navigeren en bloemen te herkennen. Zelf kun je ook de aanwezigheid van een elektrisch veld voelen maar je hebt geen zintuig dat erin is gespecialiseerd zoals een bij dat wel heeft.
+a)	Geef een reden waarom de bij een zintuig heeft ontwikkeld om nauwkeurig het elektrisch veld te kunnen bepalen (en wij niet). 
+b)	Leg uit met welk biologisch proces de ontwikkeling van verschillende zintuigen samenhangt.
+```
+
+De haartjes van de bij gaan bewegen door de invloed van geladen deeltjes die (op afstand) een elektrisch veld veroorzaken. Om een beweging in gang te zetten is een energieomzetting nodig: de energie die zit opgeslagen in het elektrisch veld wordt omgezet in bewegingsenergie van de haartjes. Je kunt die energie transporteren van A naar B. Dat gebeurt via een verschijnsel waar je al enigszins bekend mee bent uit het dagelijks leven: licht.
+
+<!-- 
 ```
 Commented [RO26]: Er is vast een spannendere titel te
 bedenken
@@ -32,30 +45,32 @@ Commented [LK28]: afmetingen erbij zetten?
 
 Commented rRO29R281: Goed idee moet ik eens
 
-opzoeken
+opzoeken -->
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
 
 De natuur heeft vele verschillende manieren gevonden om dat licht waar te nemen. Kijk daarover onderstaande video. Later in dit hoofdstuk bekijk je de ogen van een van de dieren uit de video.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-13.jpg?height=736&width=959&top_left_y=637&top_left_x=180)
+```{code-cell} ipython3
+:tags: [remove-input]
+from IPython.display import YouTubeVideo
+VideoWidth=600
+YouTubeVideo("LIfKk37bkyk", width=VideoWidth, align='center')
+```
 
-2.2. Licht: |Kleur, golflengte en frequentie
+### Licht: Kleur, golflengte en frequentie
 
 In de komende paragrafen ga je verder onderzoeken wat licht en kleur zijn en hoe we licht kunnen waarnemen, maken en meten. Daarvoor is het handig eerst wat meer te weten over wat licht eigenlijk is.
 
 In figuur 2.2 zie je een deel van een regenboog. Licht van de zon wordt door regendruppels uit elkaar getrokken in verschillende kleuren. Dat verloop van kleuren wordt een spectrum genoemd. De volgorde waarin het witte licht van de zon uiteenvalt is altijd hetzelfde.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-13.jpg?height=568&width=759&top_left_y=1686&top_left_x=180)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-13.jpg?height=568&width=759&top_left_y=1686&top_left_x=180" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.2 Regenboog na een storm door Ben Njeri.</figcaption>
+    </figure>
+</div>
 
-Figuur 2.2 Regenboog na een storm door Ben Njeri
-Commented [LK30]: Eventueel nog inzoomen op het zien van polarisatie door de bidsrinkhaankreeft en het bouwen van een camera om gepolariseerd licht te filmen: https://www.youtube.com/watch?v=TdR3ZZ6sp80 spectrum?
+<!-- Commented [LK30]: Eventueel nog inzoomen op het zien van polarisatie door de bidsrinkhaankreeft en het bouwen van een camera om gepolariseerd licht te filmen: https://www.youtube.com/watch?v=TdR3ZZ6sp80 spectrum?
 
 ```
 Commented [RO32]: Ik heb het plaatje gespiegeld tov
@@ -66,21 +81,14 @@ Nadeel is dan wel weer dat we doorgaans de kleuren van de
 regenboog opnoemen van rood -> violet. Moeilijk om de
 juiste keuze te maken. Maakt het uit?
 Commented [LK33]: Dan is er geen werkblad nodig.
-```
+``` -->
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
-
-## Opdracht 2.2. Kleuren van de regenboog
+```{exercise} Kleuren van de regenboog
 
 De regenboog wordt traditioneel verdeeld in zeven kleuren. Welke kleuren zijn dat? Neem de volgende zin over in je schrift en vul hem met behulp van figuur 2.2 aan:
 
 "De zeven kleuren van de regenboog van buiten naar binnen zijn achtereenvolgens: ..."
+```
 
 Met licht bedoelen we meestal zichtbaar licht. Licht ontstaat door een regelmatige verstoring in het elektrisch veld. Een bij kan bijvoorbeeld ook een willekeurige verstoring in het elektrisch veld waarnemen, maar dat is een ander soort die we geen licht zouden noemen. Die regelmatige verstoring wordt elektromagnetische straling genoemd. Naast zichtbaar licht zijn er ook vormen van elektromagnetische straling die niet zichtbaar zijn voor mensen. Als we ze wel zouden kunnen zien, dan zou je in figuur 2.2 ultraviolet links van de regenboog nog violet zien en infrarood rechts van rood.
 
@@ -88,11 +96,12 @@ Dat de verstoring in het elektrische veld regelmatig is betekent dat het een bep
 
 Het bijzondere van elektromagnetische straling is dat de trilling zich altijd voortplant met de lichtsnelheid: $v=c=3,0 \cdot 10^{8} \mathrm{~m} / \mathrm{s}$. Doordat de trilling zich voortplant ontstaat er een golflengte. Je kunt dat vergelijken met wat er in een heel lang touw gebeurt dat je aan een kant regelmatig op en neer beweegt: een trilling (figuur 2.3). Die trilling zal zich ook door het touw verplaatsen. Maar niet elk punt op het touw trilt op het zelfde moment in dezelfde richting. Er zit een vertraging in. Door die vertraging ontstaat er een golf in het touw. De lengte van één zo'n golf heet een golflengte. Voor de grootheid golflengte wordt de Griekse letter $\lambda$ gebruikt (spreek uit: lambda). De eenheid is de meter De golflengte is gelijk aan de afstand die het licht in één trilling aflegt.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-14.jpg?height=461&width=1187&top_left_y=1620&top_left_x=183)
-
-Figuur 2.3: Een trilling plant zich voort in een touw. (Bron:
-
-https://evantoh23.wordpress.com/2011/07/29/general-wave-properties-rope-wave/, rechten onbekend)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-14.jpg?height=461&width=1187&top_left_y=1620&top_left_x=183" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.3: Een trilling plant zich voort in een touw. (Bron: https://evantoh23.wordpress.com/2011/07/29/general-wave-properties-rope-wave/, rechten onbekend)</figcaption>
+    </figure>
+</div>
 
 Tussen golflengte, frequentie en lichtsnelheid geldt nu het volgende verband:
 
@@ -100,17 +109,9 @@ $$
 \lambda \cdot f=c
 $$
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here.
-
 Met deze formule kun je de frequentie van rood licht omrekenen naar een golflengte.
 
-Opdracht 2.3. Golfsnelheid, golflengte en frequentie
+```{exercise} Golfsnelheid, golflengte en frequentie
 
 Elektromagnetische straling plant zich in vacuüm en lucht voort met een snelheid van $3,0 \cdot 10^{8} \mathrm{~m} / \mathrm{s}$. Het is moeilijk voor te stellen hoe snel dat is.
 
@@ -122,30 +123,45 @@ b) Rood licht heeft een frequentie van rond de $4,4 \cdot 10^{12} \mathrm{~Hz}$.
 
 Bereken de bijbehorende golflengte.
 
-c) Er zijn drie soorten ultraviolette straling: UV-A, UV-B en UV-C. Het grootste deel van de ultraviolette straling van de zon die de aarde bereikt is UV-A. Dat heeft een golflengte van 315 tot $400 \mathrm{~nm}\left(1 \mathrm{~nm}=10^{-9} \mathrm{~m}\right)$.
+c) Er zijn drie soorten ultraviolette straling: UV-A, UV-B en UV-C. Het grootste deel van de ultraviolette straling van de zon die de aarde bereikt is UV-A. Dat heeft een golflengte van 315 tot $400 \mathrm{~nm}\left(1 \mathrm{~nm}=10^{-9} \mathrm{~m}\right)$. Reken de grenzen van UV-A om in hun frequentie.
 
-Reken de grenzen van UV-A om in hun frequentie.
+d) Een magnetron warmt eten op met behulp van radiogolven met een frequentie van 2,45 GHz. De G staat voor Giga. Zoek op hoe groot de vermenigvuldigingsfactor $\mathrm{G}$ is en reken de frequentie van magnetronstraling om naar een golflengte. Vergelijk die golflengte met de afmeting van een magnetronoven.
+```
 
-d) Een magnetron warmt eten op met behulp van radiogolven met een frequentie van 2,45 GHz. De G staat voor Giga.
-
-Zoek op hoe groot de vermenigvuldigingsfactor $\mathrm{G}$ is en reken de frequentie van magnetronstraling om naar een golflengte. Vergelijk die golflengte met de afmeting van een magnetronoven.
-
-### 2.3. Licht en donker onderscheiden: staafjes
+### Licht en donker onderscheiden: staafjes
 
 Dat wij elektromagnetische straling met een frequentie van rond de $4,4 \cdot 10^{12} \mathrm{~Hz}$ waarnemen als rood is niet zo vanzelfsprekend. Die kleur komt op een ingewikkelde manier tot stand. Om de werking van het oog beter te begrijpen kijken we daarom eerst naar de meest eenvoudige functie van het oog: het verschil meten tussen licht en donker.
 
 Om licht van donker te onderscheiden moet het oog lichtenergie opnemen en omzetten in een elektrisch signaal dat naar de hersenen gestuurd wordt via de oogzenuw. Het opvangen en verwerken van licht gebeurt met je netvlies, zie figuur 2.4. Daar bevinden zich de lichtgevoelige cellen die kegeltjes en staafjes worden genoemd. De staafjes zijn vooral heel lichtgevoelig, met de kegeltjes zie je kleur. Daar is wel meer licht voor nodig. Vandaar dat je in het donker weinig kleur ziet: er is te weinig licht voor de kegeltjes in je oog om kleuren te onderscheiden.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-15.jpg?height=315&width=561&top_left_y=1784&top_left_x=179)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-15.jpg?height=315&width=561&top_left_y=1784&top_left_x=179" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.4 Een schematische doorsnede van het oog, waarin ook het netvlies is aangegeven. (CC BY 3.0 door Cenveo https://www.coursehero.com/study-guides/cuny-csi-ap-1-2/special-senses-vision/ )</figcaption>
+    </figure>
+</div>
 
-Figuur 2.4 Een schematische doorsnede van het oog, waarin ook het netvlies is aangegeven. (CC BY 3.0 door Cenveo https://www.coursehero.com/study-guides/cuny-csi-ap-1-2/special-senses-vision/ )
-
-Opdracht 2.4. Kegeltjes en staafjes
+```{exercise} Kegeltjes en staafjes
 
 In figuur 2.5 zie je een afbeelding van kegeltjes en staafjes gemaakt met een (elektronen)microscoop.
 Commented [LK34]: In deze sectie kunnen nog wat meer praktische opdrachten. Misschien is te bepalen hoe lichtgevoelig het oog is?
 
-Commented [RO35R34]: Integratietijd camera vs. kikker
+
+
+a) Twee cellen zijn aangegeven met een letter ( $\mathrm{a}$ en b). Welke van deze cellen is een kegeltje, welke een staafje?
+
+b) De vergroting van de opname bedraagt $4000 \times$
+
+Bepaal de breedte en lengte van de cel aangegeven met $b$.
+
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=380&width=531&top_left_y=684&top_left_x=197" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.5 Een afbeelding van kegeltjes en staafjes gemaakt met een elektronenmicroscoop. De kleuren zijn niet echt maar later toegevoegd. Vergroting 4000× (nietrechtenvrij!) https://www.sciencephoto.com/media/308755/view/false-colour-sem-of-rods-and-cones-of-theretina</figcaption>
+    </figure>
+</div>
+```
+<!-- Commented [RO35R34]: Integratietijd camera vs. kikker
 
 Wat leren Iln. Over de biologie dat ze in een technische toepassing nodig hebben?
 
@@ -155,37 +171,24 @@ Commented [LK37]: Inhoudelijk controleren
 
 Commented [RO38R37]: Zijn staafjes inherent gevoeliger dan kegeltjes of is het 't systeem dat er achter zit met 'dataverwerking'
 
-Commented [RO39]: Vertaling nodig[^3]
-
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here.
-
-a) Twee cellen zijn aangegeven met een letter ( $\mathrm{a}$ en b). Welke van deze cellen is een kegeltje, welke een staafje?
-
-b) De vergroting van de opname bedraagt $4000 \times$
-
-Bepaal de breedte en lengte van de cel aangegeven met $b$.
-
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=380&width=531&top_left_y=684&top_left_x=197)
-
-Figuur 2.5 Een afbeelding van kegeltjes en staafjes gemaakt met een elektronenmicroscoop. De kleuren zijn niet echt maar later toegevoegd. Vergroting 4000× (nietrechtenvrij!) https://www.sciencephoto.com/media/308755/view/false-colour-sem-of-rods-and -cones-of-theretina
-
+Commented [RO39]: Vertaling nodig[^3] -->
 Hoewel kegeltjes en staafjes verschillende functies hebben, is hun werking gebaseerd op hetzelfde principe. Een lichtgevoelig molecuul (retinal) zit opgevouwen binnenin een groot eiwitmolecuul (opsine). Deze combinatie heet rodopsine (figuur 2.6). Als retinal lichtenergie opneemt dan verandert het van vorm (figuur 2.7). Hierdoor past het niet meer in de opsine. Zo valt het rodopsine uit elkaar en dat is het begin van het signaal dat naar de hersenen wordt gestuurd dat er licht is waargenomen.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=382&width=249&top_left_y=1511&top_left_x=181)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=382&width=249&top_left_y=1511&top_left_x=181" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.6 Rodopsine met in het midden retinal (rode bolletjes). [publiek domein]</figcaption>
+    </figure>
+</div>
 
-Figuur 2.6 Rodopsine met in het midden retinal (rode bolletjes). [publiek domein]
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=180&width=674&top_left_y=1972&top_left_x=220" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.7 cis-retinalmolecuul absorbeert licht en verandert in trans-retinal.</figcaption>
+    </figure>
+</div>
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=180&width=674&top_left_y=1972&top_left_x=220)
-
-11-cis retinal
-
-```
+<!-- ```
 Commented [LK40]: Nog even de schaal weergeven in de
 ```
 
@@ -199,29 +202,23 @@ Commented [LK43]: Figuur zelf maken
 
 Commented [LK44]: 11- weglaten? Roept vragen op
 
-all-trans retinal
+all-trans retinal -->
 
-Figuur 2.7 cis-retinalmolecuul absorbeert licht en verandert in trans-retinal.
-
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
+Lichtgevoelig molecuul: retinal
 
 Retinal komt in twee vormen (isomeren) voor. In figuur 2.7 zie je een schematische weergave de twee vormen van retinal: cis en trans genaamd. Op ieder hoekpunt bevindt zich een koolstofatoom ( $\mathrm{C}$ ) die met een enkele binding (één streep) of dubbele binding (twee strepen) is verbonden met andere koolstofatomen.
 
 Construeer een cis retinal molecuul met een molecuul bouwdoos. Maak er een foto van, verander het vervolgens in trans retinal en maak een tweede foto.
+```
 
-## Opdracht 2.6. Stabiliteit van rodopsine
+```{exercise} Stabiliteit van rodopsine
 
 Af en toe verandert retinal spontaan van vorm zonder dat er een interactie is met licht. Dat is een bron van ruis: je oog (of een sensor) geeft een vals signaal af. Om goed te kunnen zien moet die ruis veel kleiner zijn dan het echte signaal. Met andere woorden: de kans dat rodopsine spontaan uit elkaar valt moet heel klein zijn. Een staafje bevat ongeveer $10^{8}$ moleculen rodopsine en geeft ongeveer iedere 150 seconden een vals signaal af
 
 Leg met deze twee gegevens en een berekening uit dat rodopsine een heel stabiel molecuul is.
+```
 
-### 2.4. Kleur onderscheiden: kegeltjes
+### Kleur onderscheiden: kegeltjes
 
 In zowel de staafjes als de kegeltjes is het de stof retinal die reageert op licht. Het precieze eiwit waar het in opgesloten zit (de opsine) verschilt echter. Daardoor verschilt de kleur van het licht waarbij retinal van vorm verandert. Zo heeft de natuur een (bio)sensor ontworpen die gevoelig is voor bepaalde kleuren licht.
 
@@ -229,9 +226,14 @@ In figuur 2.8 zie je voor welke golflengtes een staafje gevoelig is. De piek lig
 
 Met die drie kegeltjes kun je veel meer kleuren zien dan alleen blauw, groen en rood. Dat werkt als volgt. Stel er valt cyaan licht op je netvlies met een golflengte van $480 \mathrm{~nm}$. Alle drie de kegeltjes zijn gevoelig voor dit soort licht en geven dus alle drie een signaal naar de hersenen. Omdat bij deze golflengte de gevoeligheid niet precies gelijk is, verschilt het signaal van de drie kegeltjes. Het is die precieze combinatie van signalen waar de hersenen een betekenis aan geven. Je hersenen gebruiken dus de relatieve sterkte van de drie signalen om heel veel kleuren mee te kunnen zien
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-17.jpg?height=525&width=594&top_left_y=1779&top_left_x=183)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-17.jpg?height=525&width=594&top_left_y=1779&top_left_x=183" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.8 Absorptie van licht door een staafje als functie van de golflengte.</figcaption>
+    </figure>
+</div>
 
-Figuur 2.8 Absorptie van licht door een staafje als functie van de golflengte.
+<!-- 
 Commented [LK45]: Soms is er een verbinding met een $\mathrm{H}$ atoom.
 
 ## Commented [LK46]: Oude opmerking Rutger:
@@ -251,52 +253,47 @@ Commented [RO49R48]: Prima, make it sc
 
 Commented [LK50]: Aangepast; hier past nog een opgave bij hoe je dan kleur ziet en dat het te maken heeft met het samenspel van deze drie kegeltjes.
 
-Commented [RO51]: Cyaan vlak toevoegen (meester, wat is cyaan?)
+Commented [RO51]: Cyaan vlak toevoegen (meester, wat is cyaan?) -->
 
-NLT Module Quantum Ready
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=609&width=922&top_left_y=549&top_left_x=179" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.9 De gevoeligheid van kegeltjes en staafjes als functie van kleur. (Variatie op Bowmaker \& Dartnall CC BY-SA 3.0 https://commons.wikimedia.org/wiki/File:Cone-response-uk.svg)</figcaption>
+    </figure>
+</div>
 
-Error! Use the Home tab to apply Kop
 
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+<!-- Commented [RO53]: Rood Groen beperking (kleurenblind) komt door niet onderscheiden rood en groen Oplossing: bril met (smal) band stop filter. [zie opdracht 2.9] -->
 
-1 ;Hoofdstuk to the text that you want to appear here.
-
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=609&width=922&top_left_y=549&top_left_x=179)
-
-Figuur 2.9 De gevoeligheid van kegeltjes en staafjes als functie van kleur. (Variatie op Bowmaker \& Dartnall CC BY-SA 3.0 https://commons.wikimedia.org/wiki/File:Cone-response-uk.svg)
-
-Commented [RO53]: Rood Groen beperking (kleurenblind) komt door niet onderscheiden rood en groen Oplossing: bril met (smal) band stop filter. [zie opdracht 2.9]
-
-Opdracht 2.7. Lichtgevoeligheid staafjes
+```{exercise} Lichtgevoeligheid staafjes
 
 Bij weinig licht is het signaal dat van de kegeltjes naar je hersens gaat veel kleiner dan van de staafjes.
 
 a. Leg met behulp van figuur 2.8 uit waarom je met alleen staafjes toch geen kleuren van elkaar kunt onderscheiden, hoewel de staafjes wel gevoelig zijn voor meerdere kleuren. Apps die gebruikt worden bij het sterrenkijken hebben vaak een nachtmodus waarbij alleen roodtinten worden gebruikt met een golflengte rond de $630 \mathrm{~nm}$. Daardoor kun je wel de app zien, maar wordt je niet door je scherm verblind waardoor je de lichtzwakke sterren niet meer ziet.
 
 b. Leg dat uit met behulp van de grafiek in figuur 2.9.
+```
 
-## Opdracht 2.8. Kleuren zien
+```{exercise} Kleuren zien
 
 In de video bij de inleiding van dit hoofdstuk heb je al kennis kunnen maken met de bidsprinkhaankreeft. Vreemde naam trouwens: het is geen sprinkhaan en geen kreeft. Lees onderstaande tekst over de ogen van dit diertje.
 
+------------------------------------------
 ## De ogen van de bidsprinkhaankreeft
 
 In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotoreceptorklassen, waaronder vier die uv-licht kunnen detecteren. Kun je je voorstellen wat een bidsprinkhaankreeft aan kleuren kan ontwaren!
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=237&width=348&top_left_y=1960&top_left_x=206)
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=237&width=348&top_left_y=1960&top_left_x=206" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.10 Ogen van de bidsprinkhaan garnaal door Daniel Sasse (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Mantis-Shrimp-Eyes.jpg</figcaption>
+    </figure>
+</div>
 
-Figuur 2.10 Ogen van de bidsprinkhaan garnaal door Daniel Sasse (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Mantis-Shrimp-Eyes.jpg
-
-Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het onderscheiden van subtiele kleurverschillen. Mensen kunnen kleuren onderscheiden waarvan de golflengte
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-$1 ;$ Hoofdstuk to the text that you want to appear here.
-
-één tot vier nanometer verschilt. Bidsprinkhaankreeften kunnen dat nog niet met kleuren die tussen twaalf en vijfentwintig nanometer uit elkaar liggen, ongeveer het verschil tussen zuiver geel en oranje. Zij zien als het ware de kleuren van een setje van twaalf verschillende potjes verf, maar kunnen de mengkleuren niet waarnemen.
+Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het onderscheiden van subtiele kleurverschillen. Mensen kunnen kleuren onderscheiden waarvan de golflengte één tot vier nanometer verschilt. Bidsprinkhaankreeften kunnen dat nog niet met kleuren die tussen twaalf en vijfentwintig nanometer uit elkaar liggen, ongeveer het verschil tussen zuiver geel en oranje. Zij zien als het ware de kleuren van een setje van twaalf verschillende potjes verf, maar kunnen de mengkleuren niet waarnemen.
 
 Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
-
+------------------------------------------
 In het oog van de bidsprinkhaankreeft vind je dus veel meer verschillende soorten lichtgevoelige cellen. Toch kun jij beter kleuren onderscheiden dan de bidsprinkhaankreeft.
 
 a) Leg met behulp van de theorie eerder beschreven uit hoe je met slechts drie soorten kegeltjes de kleuren geel en violet kunt zien.
@@ -310,14 +307,16 @@ c) Leg met behulp van jouw schets en het artikel uit dat de hersenen van de bids
 Doordat er minder verwerking plaats vindt in de hersenen van de bidsprinkhaankreeft wordt het signaal veel sneller verwerkt dan bij de mens.
 
 d) Noem een evolutionair voordeel van deze snelle verwerking.
+```
 
-## Opdracht 2.9. Kleurenblind
+```{exercise} Kleurenblind
 
 Een vorm van kleurenblindheid is de rood-groen beperking. Je kunt dan niet goed onderscheid maken tussen de kleuren rood en groen.
 
 Bedenk een oorzaak voor die beperking waarbij je gebruik maakt van figuur 2.9.
+```
 
-Opdracht 2.10. Meer kegeltjes of meer staafjes?
+```{exercise} Meer kegeltjes of meer staafjes?
 
 Vier leerlingen praten over de vraag of je nu meer kegeltjes of staafjes hebt in je netvlies:
 
@@ -334,32 +333,27 @@ a) Geef voor elk van de leerlingen een argument waarom je het eens zou kunnen zi
 b) Geef voor elk van de leerlingen een argument waarom je het oneens zou kunnen zijn.
 
 c) Bedenk samen nog andere mogelijke antwoorden.
+```
 
-### 2.5. Kleuren maken en meten met LEDs
 
-Je kunt je oog dus zien als een sensor die licht meet en omzet in een signaal. Je oog kan daarbij onderscheid maken tussen licht en donker: ogen zijn lichtgevoelig. En je ogen kunnen heel veel verschillende kleuren licht onderscheiden: ze zijn ook kleurgevoelig. Veel technische toepassingen
+### Kleuren maken en meten met LEDs
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-$1 ;$ Hoofdstuk to the text that you want to appear here.
-
-moeten iets soortgelijks kunnen: 1) weinig licht waarnemen en omzetten in een elektrisch signaal, en/of 2) de kleur van licht waarnemen en dat omzetten in een elektrisch signaal.
+Je kunt je oog dus zien als een sensor die licht meet en omzet in een signaal. Je oog kan daarbij onderscheid maken tussen licht en donker: ogen zijn lichtgevoelig. En je ogen kunnen heel veel verschillende kleuren licht onderscheiden: ze zijn ook kleurgevoelig. Veel technische toepassingen moeten iets soortgelijks kunnen: 1) weinig licht waarnemen en omzetten in een elektrisch signaal, en/of 2) de kleur van licht waarnemen en dat omzetten in een elektrisch signaal.
 
 In Opdracht 1.7 heb je al een eerste sensor gemaakt. Die zette een verandering van het elektrisch veld om in een elektrisch signaal (en vervolgens weer in licht). Die sensor maakte gebruik van een JFET en een led. Een JFET is een voorbeeld van een transistor: een component die een signaal kan versterken of kan dienen als schakelaar. Transistoren kunnen heel klein zijn: in je smartphone zitten wel 10 miljard transistoren! Al die transistoren samen zijn verantwoordelijk voor het verwerken van elektrische signalen en dat maakt allerlei bewerkingen mogelijk.
 
 In de sensor van Opdracht 1.7 zat ook een led: die zette het elektrische signaal om in een lichtsignaal. Led is een afkoring van light emitting diode (vertaling: licht uitzendende diode). Een diode is, net als een transistor, een elektrische component die gemaakt kan worden van halfgeleiders. In figuur 2.11 zie je een schematische weergave van een led. Het plastic omhulsel zorgt ervoor dat het licht gebundeld wordt en beschermt tegelijkertijd de diode zelf. Merk op dat een led twee aansluitingen heeft die niet gelijk zijn. De led geeft alleen licht als deze goed is aangesloten: het lange pootje is de plus, het korte de min. Bovendien kun je de min-kant herkennen doordat het omhulsel aan die kant is afgeplat.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-20.jpg?height=325&width=271&top_left_y=1214&top_left_x=184)
-
-Figuur 2.11 Schematische weergave van een led.
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-20.jpg?height=325&width=271&top_left_y=1214&top_left_x=184" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.11 Schematische weergave van een led.</figcaption>
+    </figure>
+</div>
 
 Je kunt een led ook gebruiken als een eenvoudig soort lichtsensor.
 
-Opdracht 2.11. Practicum: Een eerste lichtsensor
+```{exercise} Practicum: Een eerste lichtsensor
 
 Voor deze kleine proef heb je nodig:
 
@@ -375,20 +369,15 @@ Uitvoering:
 2) Houd nu de plus van de ene led tegen de plus van de andere led. Doe hetzelfde met de min.
 3) Vraag een andere leerling om met het rode lampje op de groene/blauwe led te schijnen. Neem waar of de rode led licht gaat geven.
 4) Doe hetzelfde maar nu met de uv-zaklamp. Neem opnieuw waar of de rode led licht gaat geven.
+```
 
-## Opdracht 2.12. Practicum: kleur van een led
-
-Commented [RO55]: Zo'n soort plaatje versimpelen en rechtenvrij regelen
+<!-- Commented [RO55]: Zo'n soort plaatje versimpelen en rechtenvrij regelen
 
 Commented [LK56]: Nog niet getest. N.a.v. https://www.instagram.com/richardvandewege/reel/C2|Pyfi NMai/[^4]
 
-NLT Module Quantum Ready
+NLT Module Quantum Ready -->
 
-Error! Use the Home tab to apply Kop
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here.
+```{exercise} Practicum: kleur van een led
 
 In Opdracht 2.11 heb je gezien dat een led licht geeft als er een spanning over staat. In dit practicum onderzoek je dat wat preciezer
 
@@ -396,9 +385,16 @@ Onderzoeksvraag: Welk verband is er tussen de spanning over een led en het licht
 
 Zie figuur 2.12 voor de proefopstelling. Er zijn vier leds parallel aangesloten op een variabele spanningsbron die in eerste instantie is ingesteld op 0 volt. De spanning kan variëren van 0 tot 5 volt. ledere led is in serie geschakeld met een weerstand van $100 \Omega$. Bovendien kan iedere led aan /uit geschakeld worden. Bij een parallelschakeling is de spanning over iedere tak op ieder moment gelijk is. Die spanning wordt gemeten met een voltmeter.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-21.jpg?height=349&width=1188&top_left_y=862&top_left_x=200)
-
-Figuur 2.12 De demonstratieopstelling met vier leds
+<div style="display: flex; justify-content: center;">
+    <figure style="margin-right: 20px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-21.jpg?height=349&width=1188&top_left_y=862&top_left_x=200" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.12 De demonstratieopstelling met vier leds</figcaption>
+    </figure>
+    <figure style="margin-right: 20px;">
+        <img src="" alt="schematische weergave circuit" style="height: 200px;">
+        <figcaption></figcaption>
+    </figure>
+</div>
 
 Selecteer met de schakelaars steeds één led en onderzoek door langzaam de spanning op te voeren bij welke spanning de led begint te branden en met welke kleur. Controleer vervolgens wat er met het licht gebeurt als je de spanning verder opvoert. Daarna zet je de led weer uit en ga je door naar de volgende led.
 
@@ -411,7 +407,7 @@ Neem onderstaande tabel over in je schrift en vul hem in op basis van je waarnem
 | 3 |  |  |  |  |
 | 4 |  |  |  |  |
 
-## Verwerking
+$\textbf{Verwerking}$
 
 a) Zoek in Binas of internet bij elke kleur led welke golflengte er (ongeveer) bij hoort.
 
@@ -422,6 +418,7 @@ c) Zet je gegevens in een diagram waarin je de frequentie uitzet tegen de spanni
 d) Welk verband is er op basis van je diagram tussen de frequentie (kleur) en de spanning over de led?
 
 Beschrijf wat er veranderde aan de kleur en de felheid van de leds toen je de spanning verhoogde voorbij het punt waarop de leds licht gingen geven.
+```
 
 De resultaten uit Opdracht 2.12 kun je met een vereenvoudigd model van de werking van een led verklaren. Een led, maar ook een diode, bestaat uit twee tegen elkaar geplaatste plakjes silicium (halfgeleiders) die elk verontreinigd zijn met een bepaalde stof om ze zo verschillende eigenschappen te geven. In het grensgebied tussen die twee materialen ontstaat daardoor een elektrisch veld dat elektronen tegenhoudt. Er is dus een blokkade waardoor er geen elektrische stroom kan lopen. Het bijzondere is dat je de hoogte van die blokkade kunt beïnvloeden tijdens de fabricage door de keuze van de verontreinigingen.
 
