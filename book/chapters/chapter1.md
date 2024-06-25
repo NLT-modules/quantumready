@@ -90,69 +90,10 @@ Zoek informatie in ten minste drie verschillende bronnen om in je eigen woorden 
 3. Welke impact heeft dat gehad op de moderne luchtvaart?
 ```
 
-<iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" aria-label="Exercise 1.3" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
 ```{exercise} Match de natuur en de toepassing
+Probeer de puzzle hieronder op te lossen. Links vindt je 9 boxen met daarin een omschrijving van technologische toepassing geïnspireerd op een dier/plant, rechts vindt je 9 verschillende dieren/planten die bij een van deze omschrijving hoort. Probeer de goede plant/dier bij de goede omschrijving te vinden. 
 
 <iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" aria-label="Exercise 1.3" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
-
-Hieronder vind je twee lijsten. De eerste bevat beschrijvingen van een biomimetische toepassing (nummers 1 t/m 9), geïnspireerd op een dier. De tweede bevat een aantal dieren (letters A t/m I). Probeer bij iedere technologische toepassing (nummer) het juiste dier of plant (letter) te vinden en stel zo een lijst met voorbeelden van biomimetica samen. Noteer hiervoor de nummers 1 t/m 9 in je schrift en noteer daar achter de juiste letters A t/m I. Een antwoord is al gegeven: 7 = H.
-
-| 1 | Waterafstotende oppervlakken, zoals kleding of zonnepanelen |
-| 2 | Air conditioning Eastgate Center (kantoorgebouw) in Zimbabwe |
-| 3 | Ecologische witte verf |
-| 4 | Stillere Japanse Bullet Train |
-| 5 | Efficiëntere wieken van een windmolen |
-| 6 | Antibacteriële coatings in het ziekenhuis |
-| 7 | Wateropvang voor hergebruik in een energiecentrale |
-| 8 | Ecologische schimmelbestrijdingsmiddel |
-| 9 | Watervaste, ecologische lijm |
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <figure style="text-align: center; margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=392&width=1162&top_left_y=1962&top_left_x=203" alt="A Termietenheuvel" style="height: 200px;">
-        <figcaption>A Termietenheuvel</figcaption>
-    </figure>
-    <figure style="text-align: center; margin-right: 20px;">
-        <img src="" alt="B Ijsvogel" style="height: 200px;">
-        <figcaption>B Ijsvogel</figcaption>
-    </figure>
-    <figure style="text-align: center;">
-        <img src="" alt="C Mosselen" style="height: 200px;">
-        <figcaption>C Mosselen</figcaption>
-    </figure>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-    <figure style="text-align: center; margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=394&width=417&top_left_y=614&top_left_x=200" alt="D Citroenhaai" style="height: 200px;">
-        <figcaption>D Citroenhaai</figcaption>
-    </figure>
-    <figure style="text-align: center; margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=400&width=303&top_left_y=614&top_left_x=611" alt="E Cyphochilus Kever" style="height: 200px;">
-        <figcaption>E Cyphochilus Kever</figcaption>
-    </figure>
-    <figure style="text-align: center;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=403&width=469&top_left_y=615&top_left_x=902" alt="F Bultrugwalvis" style="height: 200px;">
-        <figcaption>F Bultrugwalvis</figcaption>
-    </figure>
-</div>
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-    <figure style="text-align: center; margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=404&width=1168&top_left_y=1048&top_left_x=200" alt="G Oregano" style="height: 200px;">
-        <figcaption>G Oregano</figcaption>
-    </figure>
-    <figure style="text-align: center; margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=416&width=374&top_left_y=1057&top_left_x=498" alt="H Bijen" style="height: 200px;">
-        <figcaption>H Bijen</figcaption>
-    </figure>
-    <figure style="text-align: center;">
-        <img src="https://example.com/image9.jpg" alt="I Lotusblad" style="height: 200px;">
-        <figcaption>I Lotusblad</figcaption>
-    </figure>
-</div>
 
 ```
 
