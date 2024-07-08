@@ -1,6 +1,6 @@
 # Licht waarnemen en maken
 
-### Inleiding
+## Inleiding
 
 In het vorige hoofdstuk heb je kennisgemaakt met een toepassing van de quantummechanica: de sensor voor het elektrisch veld maakte gebruik van halfgeleidermateriaal. Quantummechanica is een natuurkundige theorie die het gedrag van licht, materie en hun interactie beschrijft. Vaak wordt deze theorie gebruikt om het gedrag te beschrijven van dingen die we niet met het blote oog kunnen zien, zoals koolstofverbindingen (figuur 2.1a), bladgroencellen (figuur 2.1b) en zelfs kleine beestjes zoals het beerdiertje (figuur 2.1c).
 
@@ -69,7 +69,7 @@ VideoWidth=600
 YouTubeVideo("LIfKk37bkyk", width=VideoWidth, align='center')
 ```
 
-### Licht: Kleur, golflengte en frequentie
+## Licht: Kleur, golflengte en frequentie
 
 In de komende paragrafen ga je verder onderzoeken wat licht en kleur zijn en hoe we licht kunnen waarnemen, maken en meten. Daarvoor is het handig eerst wat meer te weten over wat licht eigenlijk is.
 
@@ -140,7 +140,7 @@ c) Er zijn drie soorten ultraviolette straling: UV-A, UV-B en UV-C. Het grootste
 d) Een magnetron warmt eten op met behulp van radiogolven met een frequentie van 2,45 GHz. De G staat voor Giga. Zoek op hoe groot de vermenigvuldigingsfactor $\mathrm{G}$ is en reken de frequentie van magnetronstraling om naar een golflengte. Vergelijk die golflengte met de afmeting van een magnetronoven.
 ```
 
-### Licht en donker onderscheiden: staafjes
+## Licht en donker onderscheiden: staafjes
 
 Dat wij elektromagnetische straling met een frequentie van rond de $4,4 \cdot 10^{12} \mathrm{~Hz}$ waarnemen als rood is niet zo vanzelfsprekend. Die kleur komt op een ingewikkelde manier tot stand. Om de werking van het oog beter te begrijpen kijken we daarom eerst naar de meest eenvoudige functie van het oog: het verschil meten tussen licht en donker.
 
@@ -230,7 +230,7 @@ Af en toe verandert retinal spontaan van vorm zonder dat er een interactie is me
 Leg met deze twee gegevens en een berekening uit dat rodopsine een heel stabiel molecuul is.
 ```
 
-### Kleur onderscheiden: kegeltjes
+## Kleur onderscheiden: kegeltjes
 
 In zowel de staafjes als de kegeltjes is het de stof retinal die reageert op licht. Het precieze eiwit waar het in opgesloten zit (de opsine) verschilt echter. Daardoor verschilt de kleur van het licht waarbij retinal van vorm verandert. Zo heeft de natuur een (bio)sensor ontworpen die gevoelig is voor bepaalde kleuren licht.
 
@@ -348,7 +348,7 @@ c) Bedenk samen nog andere mogelijke antwoorden.
 ```
 
 
-### Kleuren maken en meten met LEDs
+## Kleuren maken en meten met LEDs
 
 Je kunt je oog dus zien als een sensor die licht meet en omzet in een signaal. Je oog kan daarbij onderscheid maken tussen licht en donker: ogen zijn lichtgevoelig. En je ogen kunnen heel veel verschillende kleuren licht onderscheiden: ze zijn ook kleurgevoelig. Veel technische toepassingen moeten iets soortgelijks kunnen: 1) weinig licht waarnemen en omzetten in een elektrisch signaal, en/of 2) de kleur van licht waarnemen en dat omzetten in een elektrisch signaal.
 
@@ -434,33 +434,30 @@ Beschrijf wat er veranderde aan de kleur en de felheid van de leds toen je de sp
 
 De resultaten uit Opdracht 2.12 kun je met een vereenvoudigd model van de werking van een led verklaren. Een led, maar ook een diode, bestaat uit twee tegen elkaar geplaatste plakjes silicium (halfgeleiders) die elk verontreinigd zijn met een bepaalde stof om ze zo verschillende eigenschappen te geven. In het grensgebied tussen die twee materialen ontstaat daardoor een elektrisch veld dat elektronen tegenhoudt. Er is dus een blokkade waardoor er geen elektrische stroom kan lopen. Het bijzondere is dat je de hoogte van die blokkade kunt beïnvloeden tijdens de fabricage door de keuze van de verontreinigingen.
 
-Tijdens de oversteek door het grensgebied geeft een elektron een hoeveelheid elektrische energie $\Delta E_{e l}$ af in de vorm van licht. Zie figuur 2.13. Om die oversteek te maken moet de spanning groot
-
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-## 1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
-
-genoeg zijn: miniaal gelijk aan de drempelspanning $U_{\text {drempel }}$. Het verband tussen $U_{d r e m p e l}$ en $\Delta E_{e l}$ wordt gegeven door:
+Tijdens de oversteek door het grensgebied geeft een elektron een hoeveelheid elektrische energie $\Delta E_{e l}$ af in de vorm van licht. Zie figuur 2.13. Om die oversteek te maken moet de spanning groot genoeg zijn: miniaal gelijk aan de drempelspanning $U_{\text {drempel }}$. Het verband tussen $U_{d r e m p e l}$ en $\Delta E_{e l}$ wordt gegeven door:
 
 $\Delta E_{e l}=q \cdot U_{\text {drempel }}$
 
 In deze formule is $q$ de lading van het elektron dat de oversteek tussen de twee halfgeleiders en heeft een waarde van $-1,6 \cdot 10^{-19}$ coulomb (C). Voor deze module is het belangrijk om met vergelijking (1) te kunnen werken. Wil je meer weten over de werking van de led en het ontstaan van het grensgebied, lees dan 2.9 Verdieping: Halfgeleiders.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=345&width=1094&top_left_y=884&top_left_x=184)
-
-Figuur 2.13 Schematische weergave van de twee halfgeleidende materialen in een led/diode.
+<div style="display: flex; justify-content: center;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=345&width=1094&top_left_y=884&top_left_x=184" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.13 Schematische weergave van de twee halfgeleidende materialen in een led/diode.</figcaption>
+    </figure>
+</div>
 
 We kunnen dit alles samenvatten met het energiediagram in figuur 2.14. De elektronen kunnen zich (bij benadering) in een van twee energietoestanden bevinden die de valentieband en de geleidingsband worden genoemd. Tussen die twee energietoestanden bevinden zich geen mogelijke energietoestanden voor de elektronen. Dit wordt de band gap genoemd. De grootte van die band gap bepaald de kleur van een led. Steekt een elektron het grensgebied tussen twee halfgeleiders over dan valt het vanuit de geleidingsband terug naar de valentieband en het energieverschil tussen de banden, de band gap, wordt omgezet in licht.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=257&width=302&top_left_y=1571&top_left_x=183)
-
-Figuur 2.14 Energieniveauschema voor een led
+<div style="display: flex; justify-content: center;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=257&width=302&top_left_y=1571&top_left_x=183" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.14 Energieniveauschema voor een led.</figcaption>
+    </figure>
+</div>
 
 In tabel 2.1 staan de verontreinigingen die gebruikt zijn in de leds uit Opdracht 2.12. In de verdieping aan het eind van dit hoofdstuk kun je in meer detail te weten komen hoe de eigenschappen van halfgeleiders te beïnvloeden zijn en wat er in een diode en transistor gebeurt.
+
 
 Tabel 2.1 Halfgeleiders gebruikt in verschillende kleuren leds.
 
@@ -471,7 +468,7 @@ Tabel 2.1 Halfgeleiders gebruikt in verschillende kleuren leds.
 | groen | InGaN = Indium Gallium Nitride (stikstof) |
 | blauw | InGaN = Indium Gallium Nitride (stikstof) |
 
-Commented [LK61]: Negatieve lading, elektron gaat tegen de stroom in. Nagaan hoe we dit helder presenteren.
+<!-- Commented [LK61]: Negatieve lading, elektron gaat tegen de stroom in. Nagaan hoe we dit helder presenteren.
 
 Commented [LK62]: Weer een nieuw model voor de LED. Is dit nodig? Met p-n junctie?
 
@@ -486,17 +483,9 @@ Commented [LK66]: Dit roept de vraag op waarom
 eenzelfde materiaal toch een verschillende kleur kan
 ```
 
-genereren.[^5]
+genereren.[^5] -->
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
-
-Opdracht 2.13. Stroom-spanningskarakteristiek van een led
+```{exercise} Stroom-spanningskarakteristiek van een led
 
 In figuur 2.15 zie je een stroom-spanningkarakteristiek die de elektrische eigenschappen van een led laat zien.
 
@@ -507,18 +496,27 @@ b) Lees uit de grafiek af wat de drempelspanning is voor deze led.
 c) Gebruik je resultaten uit Opdracht 2.12 om te voorspellen welk soort straling deze led uitzendt. De spanningen die je daar hebt bepaald zijn bij benadering gelijk aan de drempelspanning voor de betreffende led.
 
 d) Schets op basis van je resultaten uit Opdracht 2.12 de stroom-spanningskarakteristiek voor leds die rood, geel, groen en blauw licht uitzenden.
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-23.jpg?height=524&width=1208&top_left_y=934&top_left_x=180)
 
-Figuur 2.15 De stroom-spanning karakteristiek van een diode (eigen werk)
+<div style="display: flex; justify-content: center;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-23.jpg?height=524&width=1208&top_left_y=934&top_left_x=180" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.15 De stroom-spanning karakteristiek van een diode (eigen werk)</figcaption>
+    </figure>
+</div>
+```
 
 De kleur van een led wordt bepaald door de drempelspanning. ledere keer als een elektron genoeg energie heeft om door de led heen te stromen komt er licht vrij. Boven de drempelspanning geldt: hoe hoger de spanning, hoe groter de kans dat elektronen de oversteek gaan maken. De led gaat dan dus feller branden. Je ziet in figuur 2.15 dat bij een grotere spanning er meer stroom gaat lopen. De grootte van de elektrische stroom zou dus een maat kunnen zijn voor de hoeveelheid licht die de led uitzendt.
 
 Wil je beter begrijpen waarom de led pas licht gaat uitzenden boven een bepaalde drempelspanning, bestudeer dan de verdieping.
 
-### 2.6. Lichtdeeltjes: fotonen
+## Lichtdeeltjes: fotonen
 
-Een aquarium gevuld met water bevat een gigantische hoeveelheid watermoleculen die zich samen gedragen als een vloeistof. Je kunt een los watermolecuul niet zien maar het is wel de kleinste bouwsteen waaruit de vloeistof bestaat: de kleinste hoeveelheid water die je er in de bak bij kunt doen (of er uit kunt halen) is één watermolecuul. ${ }^{1}$ Er bestaat geen 'half' watermolecuul, het is alles of niks. Het idee dat de materie om ons heen is opgebouwd uit een kleinste bouwsteen stamt al uit de Griekse oudheid. Het woord atoom komt daar ook vandaan: het betekent 'ondeelbaar'.[^6]
+Een aquarium gevuld met water bevat een gigantische hoeveelheid watermoleculen die zich samen gedragen als een vloeistof. Je kunt een los watermolecuul niet zien maar het is wel de kleinste bouwsteen waaruit de vloeistof bestaat: de kleinste hoeveelheid water die je er in de bak bij kunt doen (of er uit kunt halen) is [één watermolecuul](opmerkingatomen). Er bestaat geen 'half' watermolecuul, het is alles of niks. Het idee dat de materie om ons heen is opgebouwd uit een kleinste bouwsteen stamt al uit de Griekse oudheid. Het woord atoom komt daar ook vandaan: het betekent 'ondeelbaar'.
 
+(opmerkingatomen)=
+> Moleculen bestaan natuurlijk weer uit atomen maar er is maar één combinatie van atomen die we een watermolecuul noemen: H$_2$O
+
+<!-- 
 ```
 Commented [RO70]: Is dit in een redeneeropdracht om t
 schrijven, dat de leerling er zelf achter komt? Ik heb het
@@ -528,14 +526,7 @@ gewoon vertellen? Of zie ik dat verkeerd?
 
 Commented [LK71]: Waar is er plek voor Single
 
-Quantum?
-
-
-#### Abstract
-
-NLT Module Quantum Ready Error! Use the Home tab to apply Kop
-
-\section*{1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop} 1;Hoofdstuk to the text that you want to appear here.
+Quantum? -->
 
 In het dagelijks leven merk je niet dat materie is opgebouwd uit atomen en moleculen. Dat komt omdat je bij alles wat je doet met een enorme hoeveelheid atomen tegelijkertijd in aanraking komt. In een suikerklontje zitten al gauw zo'n $3 \cdot 10^{23}$ atomen die met elkaar $7 \cdot 10^{21}$ suikermoleculen maken.
 
@@ -544,7 +535,7 @@ Ook licht heeft een kleinste bouwsteen. Die bouwsteen heet een foton. Het is de 
 Anders dan atomen en moleculen kunnen fotonen niet met elkaar botsen of aan elkaar blijven plakken. Fotonen zijn dus altijd losse deeltjes en ze zitten elkaar niet in de weg. Je kunt er ook niet zoiets als een lichtmolecuul mee bouwen. Als je een (denkbeeldige) doos wil vullen met atomen zit de doos op een gegeven moment vol tot aan de rand. Maar in dezelfde doos kun je (bijna) oneindig veel fotonen kwijt.
 
 
-## Opdracht 2.14. Energie van een foton
+```{exercise} Energie van een foton
 
 Pak voor deze opdracht je resultaten op Opdracht 2.12 er weer bij en beantwoord de volgende vragen.
 
@@ -559,6 +550,7 @@ c) Maak een grafiek met op de verticale as de fotonenergie (in joule) en op de h
 d) Welk verband lijkt er te zijn tussen fotonenergie en frequentie van het licht? Teken in je diagram een trendlijn die bij dit verband past.
 
 e) Bepaal de helling van de trendlijn. Geef je antwoord in de juiste eenheid.
+```
 
 In Opdracht 2.14 heb je gezien dat de hoeveelheid energie van een foton afhangt van de kleur licht en dus van de frequentie $f$. Voor de energie $E_{f}$ van een foton geldt de volgende formule:
 
@@ -568,17 +560,11 @@ De letter $h$ staat voor een constante, de zogenoemde constante van Planck. De e
 
 Omdat de energie van een enkel foton heel klein is gebruiken we in deze module we vaak de eenheid elektronvolt (eV). Ook daar kun je het verschil tussen een enkel deeltje en een hele groep zien. Wissel je energie uit met een grote groep deeltjes dan gebruik je de joule. De uitwisseling met een enkel deeltje is zo klein dat je er een aparte eenheid voor gebruikt. Daarvoor geldt: $1 \mathrm{eV}=1,6 \cdot 10^{-19} \mathrm{~J}$. Door deze keuze wordt het heel makkelijk om een spanning om te rekenen in elektrische energie. Een spanning over een led van (bijvoorbeeld) $1 \mathrm{~V}$ komt overeen met een energie van $1 \mathrm{eV}$.
 
-## Opdracht 2.15. Omrekenen joule en elektronvolt
+```{exercise} Omrekenen joule en elektronvolt
 
-[^7]^[
+<!-- [^7]^[
 Commented [LK73]: We moeten onderscheid make tussen verwerkingsvragen en de begripsvragen die de leerlingen helpen de tekst te lezen.
-]
-
-NLT Module Quantum Ready Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here.
+] -->
 
 De meeste halfgeleiders zijn gemaakt van silicium. Ook zonnepanelen bestaan uit kristallen van silicium. De band gap van silicium is $1,1 \mathrm{eV}$.
 
@@ -595,14 +581,15 @@ In de zomer bedraagt de gemiddelde zonnestraling in Nederland 200 W per vierkant
 e) Bereken uit hoeveel fotonen $200 \mathrm{~J}$ zonlicht bestaat.
 
 f) Maak een schatting hoeveel fotonen er per seconde in je oog terecht komen.
+```
 
-### 2.7. Fotodiodes
+## Fotodiodes
 
 Zoals je in de vorige paragraaf hebt gezien kun je met behulp van een led elektrische energie omzetten in licht. Het omgekeerde kan ook: met licht elektrische energie opwekken. Een voorbeeld daarvan is natuurlijk een zonnepaneel. Die worden ook gemaakt van halfgeleiders. Maar ook de leds uit de vorige paragraaf kun je hiervoor gebruiken. Als je een diode gebruikt om licht te meten (in plaats van licht te maken) dan noem je het een fotodiode.
 
 Eerder heb je geleerd dat een diode maar in één richting stroom doorlaat. Een led geeft dus alleen maar licht als je deze in de goede richting aansluit. Draai je de led om, dan wordt de stroom geblokkeerd en lijkt het alsof er niks gebeurt. Maar diodes hebben altijd een kleine lekstroom. Die lekstroom wordt gevormd door elektronen die 'toevallig' de grens tussen de twee halfgeleiders oversteken. De energie die daarvoor nodig is kan uit de omgeving gehaald worden, bijvoorbeeld in de vorm van warmte of, zoals net beschreven, licht. Hoe meer licht de diode opvangt, hoe groter de lekstroom. Door de lekstroom te meten kun je een fotodiode dus gebruiken als lichtsensor. De grootte van de band gap speelt dan nog steeds een rol.
 
-Opdracht 2.16. Toepassingen van een fotodiode
+```{exercise} Toepassingen van een fotodiode
 
 Bedenk samen zo veel mogelijk toepassingen waarin je een of meerdere fotodiodes gebruikt om:
 
@@ -613,20 +600,13 @@ b) De kleur van licht te meten.
 Geef voor elke toepassing aan welke eisen er zijn aan de fotodiode.
 
 Voorbeeld van a): met een fotodiode meet je hoeveel licht er van buiten een kamer binnenkomt. Als het licht wordt kan de verlichting automatisch uitgeschakeld worden. Eisen aan de fotodiode: moet gevoelig zijn voor zichtbaar licht en moet bij weinig licht een verschillend signaal af kunnen geven.
+```
 
-## Opdracht 2.17. Practicum: spectrometer maken
+```{exercise} Practicum: spectrometer maken
 
-[^9]Commented [LK76]: Alternatief
+<!-- [^9]Commented [LK76]: Alternatief
 
-Hacking STEM project van Microsoft waarbij een Arduino data verzameld die live wordt weergegeven in Excel: zie https://www.youtube.com/watch?v=wKIH-7ePOAK
-
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here.
+Hacking STEM project van Microsoft waarbij een Arduino data verzameld die live wordt weergegeven in Excel: zie https://www.youtube.com/watch?v=wKIH-7ePOAK -->
 
 Voor dit practicum heb je een opstelling nodig die is gemaakt door studenten van de Leidse instrumentmakers School, de LiS (zie figuur 2.16).
 
@@ -640,9 +620,15 @@ Uitvoering:
 
 - Aan de buitenkant bevinden zich vier aansluitpunten: twee voor de
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-26.jpg?height=454&width=560&top_left_y=567&top_left_x=771)
+<div style="display: flex; justify-content: center;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-26.jpg?height=454&width=560&top_left_y=567&top_left_x=771" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <figcaption>Figuur 2.16 Aangesloten opstelling spanningsmeter en twee voor de gelijkspanningsbron.</figcaption>
+    </figure>
+</div>
+![]()
 
-Figuur 2.16 Aangesloten opstelling spanningsmeter en twee voor de gelijkspanningsbron. Sluit ze op de juiste wijze aan. (Zie figuur 2.16.)
+ Sluit ze op de juiste wijze aan. (Zie figuur 2.16.)
 
 - Stel de spanningsbron in op $5 \mathrm{~V}$, niet hoger.
 - Stel de spanningsmeter zo in dat je tot enkele volts kunt meten, op tienden volts nauwkeurig. (In figuur 2.16 is een multimeter aangesloten.)
@@ -662,31 +648,29 @@ Verwerking:
 a) Bekijk je tabel met gegevens. Welk verband kun je ontdekken tussen de kleur van de lichtgevende led en de hoogte van de spanning die je over de ontvanger led meet?
 
 b) Geef een verklaring voor het verband dat je bij a) hebt gevonden op basis van de energie van de fotonen en de bandgap van de led waarover je de spanning meet.
+```
 
-### 2.8. Fotodiodes en het oog
+## Fotodiodes en het oog
 
 Zoals je in Opdracht 2.17 heb gezien kun je met behulp van fotodiodes licht meten. Je zou fotodiodes dus kunnen gebruiken om een camera te maken. Maar de kleur en hoeveelheid licht bepalen is ook precies de functie van het netvlies.
 
-Opdracht 2.18. Oogimplantaat
+```{exercise} Oogimplantaat
+Lees onderstaand artikel en bespreek vervolgens welke technologische uitdagingen jij ziet om van een led (als fotodiode) een kunstmatig netvlies te maken dat geïmplanteerd kan worden in een oog.
 
-![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-27.jpg?height=1171&width=1180&top_left_y=451&top_left_x=178)
+>$\textbf{Fotovoltaïsch implantaat kan zicht herstellen}$
+Een team onder leiding van onderzoekers van Stanford University zegt een draadloos implantaat te hebben ontwikkeld dat het zicht vijf keer beter kan herstellen dan bestaande apparaten.
+Resultaten van rattenstudies suggereren dat het een functioneel gezichtsvermogen kan bieden aan patiënten met retinale degeneratieve ziekten, zoals retinitis pigmentosa of maculaire degeneratie.
+“De prestaties die we op dit moment waarnemen, is zeer bemoedigend”, zegt Georges Goetz, onderzoeker en promovendus elektrotechniek aan Stanford. “Op basis van onze huidige resultaten hopen we dat mensen met dit implantaat objecten kunnen herkennen en zich kunnen verplaatsen.” 
 
-NLT Module Quantum Ready
+Retinale degeneratieve ziekten vernietigen fotoreceptoren - de staven en kegels van het netvlies - maar andere delen van het oog blijven meestal gezond. Het implantaat maakt gebruik van de elektrische prikkelbaarheid van retinale neuronen die bekend staan als bipolaire cellen. Deze cellen verwerken de ingangen van de fotoreceptoren voordat ze ganglioncellen bereiken, die retinale signalen naar de hersenen sturen. Door bipolaire cellen te stimuleren, maakt het implantaat gebruik van belangrijke natuurlijke eigenschappen van het retinale neurale netwerk, dat meer verfijnde beelden produceert dan de apparaten die deze cellen overslaan.
 
-Error! Use the Home tab to apply Kop
+Het implantaat is samengesteld uit zeshoekige fotovoltaïsche pixels die licht via speciale brillen, die door de ontvanger worden gedragen, in elektrische stroom omzetten. Deze elektrische pulsen stimuleren vervolgens de bipolaire cellen van het netvlies en veroorzaken een neurale cascade die de hersenen bereikt.
 
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
+Vertaald van: https://med.stanford.edu/news/all-news/2015/04/photovoltaic-retinal-implant-could-restore-functional-sight.html (2015)
+```
 
-1;Hoofdstuk to the text that you want to appear here.
 
 2.9. Verdieping: Halfgeleiders
 
 Synopsis: model van led, n-type en p-type halfgeleiders, depletielaag, intern E-veld
 
-NLT Module Quantum Ready
-
-Error! Use the Home tab to apply Kop
-
-1;Hoofdstuk to the text that you want to appear here. Error! Use the Home tab to apply Kop
-
-1 ;Hoofdstuk to the text that you want to appear here
