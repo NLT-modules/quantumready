@@ -150,8 +150,7 @@ Commented [LK9]: Ik denk dat het bruggetje meer is: We gaan biologische systemen
 
 Lees onderstaand artikel.
 
-> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie figuur 1.3).
-
+> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie [zie figuur 1.3](fig1.3)).
 > Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer ([zie figuur 1.3](fig1.3)).
 
 (fig1.3)=
@@ -161,7 +160,7 @@ Lees onderstaand artikel.
         <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=508&top_left_y=1005&top_left_x=203" alt="Koeltorens" style="height: 200px;">
         <figcaption>Figuur 1.3: Water ontsnapt via koeltorens naar de atmosfeer.</figcaption>
     </figure>
-    <figure style="text-align: center; margin-right: 20px;">
+    <figure>
         <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=568&top_left_y=1005&top_left_x=775" alt="Ingenieurs MIT" style="height: 200px;">
         <figcaption>Figuur 1.4: Ingenieurs van MIT bij hun prototype. Bron: https://energy.mit.edu/news/new-systemrecovers-fresh-water-from-power-plants/</figcaption>
     </figure>
