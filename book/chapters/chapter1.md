@@ -112,9 +112,9 @@ Commented [LK6]: Alternatief: laat drie leerlingen elk één andere bron vinden.
 
 ```{exercise} Match de natuur en de toepassing (vervolg)
 
-In [Opdracht 1.3](ex1.3) heb je kennis gemaakt met een aantal voorbeelden van biomimetica. Bij ieder voorbeeld is een video beschikbaar die je van de docent krijgt.
+In [opdracht 1.3](ex1.3) heb je kennis gemaakt met een aantal voorbeelden van biomimetica. Bij ieder voorbeeld is een video beschikbaar die je van de docent krijgt.
 
-a) Kies één voorbeeld van biomimetica uit [Opdracht 1.3](ex1.3).
+a) Kies één voorbeeld van biomimetica uit [opdracht 1.3](ex1.3).
 
 b) Zoek bij dat voorbeeld, naast de video twee aanvullende bronnen.
 
@@ -127,9 +127,9 @@ Geef duidelijk aan welke informatie uit welke bron afkomstig is en gebruik tusse
 
 Biomimetica is niet alleen kijken naar de natuur. Het is een proces waarbij observeren, meten, onderzoeken en ontwerpen een belangrijke rol spelen. Zo vergeleek Richard Whitcomb de vleuge van een vliegtuig met de vleugel van een adelaar en haalde daar inspiratie uit. Hij heeft vervolgens verschillende modelvleugels gemaakt en de luchtweerstand gemeten in een windtunnel.
 
-Waarom de cyphochilus kever uit [Opdracht 1.3](ex1.3) wit is kun je niet zo makkelijk zien met het blote oog. Daarvoor moet je het schild van de kever onder een microscoop onderzoeken om kleine structuren te kunnen zien. Naast een technologie om het schild te bestuderen heb je andere technologie nodig om de structuur van het schild na te bootsen. Vragen die eenvoudig lijken, hebben vaak een uitgebreid antwoord hebben. Wat is bijvoorbeeld de 'kleur' wit? Dit soort vragen zul je in de loop van deze module proberen te beantwoorden.
+Waarom de cyphochilus kever uit [opdracht 1.3](ex1.3) wit is kun je niet zo makkelijk zien met het blote oog. Daarvoor moet je het schild van de kever onder een microscoop onderzoeken om kleine structuren te kunnen zien. Naast een technologie om het schild te bestuderen heb je andere technologie nodig om de structuur van het schild na te bootsen. Vragen die eenvoudig lijken, hebben vaak een uitgebreid antwoord hebben. Wat is bijvoorbeeld de 'kleur' wit? Dit soort vragen zul je in de loop van deze module proberen te beantwoorden.
 
-Je zult in de module voortdurend gebruik maken van natuurkundige begrippen en principes. Een voorbeeld daarvan, wat je in het volgende hoofdstuk ook zal tegenkomen, is het begrip elektrisch veld. Daarom kijk je in de volgende paragraaf wat dieper naar het voorbeeld van de bij uit [Opdracht 1.3](ex1.3).
+Je zult in de module voortdurend gebruik maken van natuurkundige begrippen en principes. Een voorbeeld daarvan, wat je in het volgende hoofdstuk ook zal tegenkomen, is het begrip elektrisch veld. Daarom kijk je in de volgende paragraaf wat dieper naar het voorbeeld van de bij uit [opdracht 1.3](ex1.3).
 
 <!-- 
 ```
@@ -150,8 +150,8 @@ Commented [LK9]: Ik denk dat het bruggetje meer is: We gaan biologische systemen
 
 Lees onderstaand artikel.
 
-> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie [zie figuur 1.3](fig1.3)).
-> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer ([zie figuur 1.3](fig1.3)).
+> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie [figuur 1.3](fig1.3)).
+> Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie [figuur 1.3](fig1.3)).
 
 (fig1.3)=
 (fig1.4)=
@@ -227,7 +227,7 @@ Mensen gebruiken ook elektrische (en elektromagnetische) signalen om met elkaar 
 
 ## Sensoren
 
-Uit [Opdracht 1.5](ex1.5) blijkt dat mensen wel het elektrisch veld kunnen voelen, maar er niet zo gevoelig voor zijn als een bij. De mens mist hiervoor een fijn ontwikkeld zintuig. Als je een elektrisch veld wil waarnemen met dezelfde (of meer) precisie als een bij dan moet je hiervoor een kunstmatig zintuig gebruiken. Zo'n kunstmatig zintuig noemen we een sensor. Een sensor zet een meetbare grootheid om in een elektrisch signaal dat we kunnen aflezen op een voltmeter of verwerkt kan worden door een computer.
+Uit [opdracht 1.5](ex1.5) blijkt dat mensen wel het elektrisch veld kunnen voelen, maar er niet zo gevoelig voor zijn als een bij. De mens mist hiervoor een fijn ontwikkeld zintuig. Als je een elektrisch veld wil waarnemen met dezelfde (of meer) precisie als een bij dan moet je hiervoor een kunstmatig zintuig gebruiken. Zo'n kunstmatig zintuig noemen we een sensor. Een sensor zet een meetbare grootheid om in een elektrisch signaal dat we kunnen aflezen op een voltmeter of verwerkt kan worden door een computer.
 
 ```{exercise} Zintuigen en sensoren
 
