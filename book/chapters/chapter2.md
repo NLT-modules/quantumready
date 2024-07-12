@@ -218,11 +218,11 @@ b. Leg dat uit met behulp van de grafiek in [figuur 2.9](fig2.9).
 
 In de video bij de inleiding van dit hoofdstuk heb je al kennis kunnen maken met de bidsprinkhaankreeft. Vreemde naam trouwens: het is geen sprinkhaan en geen kreeft. Lees onderstaande tekst over de ogen van dit diertje.
 
-
-> $\textbf{De ogen van de bidsprinkhaankreeft}$
-> 
-> In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotoreceptorklassen, waaronder vier die uv-licht kunnen detecteren. Kun je je voorstellen wat een bidsprinkhaankreeft aan kleuren kan ontwaren!
-> 
+````
+$\textbf{De ogen van de bidsprinkhaankreeft}$
+ 
+In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotoreceptorklassen, waaronder vier die uv-licht kunnen detecteren. Kun je je voorstellen wat een bidsprinkhaankreeft aan kleuren kan ontwaren!
+ 
 (fig2.1)=
 <div style="display: flex; justify-content: center;">
     <figure>
@@ -230,9 +230,10 @@ In de video bij de inleiding van dit hoofdstuk heb je al kennis kunnen maken met
         <figcaption>Figuur 2.10 Ogen van de bidsprinkhaan garnaal door Daniel Sasse (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Mantis-Shrimp-Eyes.jpg</figcaption>
     </figure>
 </div>
->
-> Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het onderscheiden van subtiele kleurverschillen. Mensen kunnen kleuren onderscheiden waarvan de golflengte één tot vier nanometer verschilt. Bidsprinkhaankreeften kunnen dat nog niet met kleuren die tussen twaalf en vijfentwintig nanometer uit elkaar liggen, ongeveer het verschil tussen zuiver geel en oranje. Zij zien als het ware de kleuren van een setje van twaalf verschillende potjes verf, maar kunnen de mengkleuren niet waarnemen.
-> Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
+
+Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het onderscheiden van subtiele kleurverschillen. Mensen kunnen kleuren onderscheiden waarvan de golflengte één tot vier nanometer verschilt. Bidsprinkhaankreeften kunnen dat nog niet met kleuren die tussen twaalf en vijfentwintig nanometer uit elkaar liggen, ongeveer het verschil tussen zuiver geel en oranje. Zij zien als het ware de kleuren van een setje van twaalf verschillende potjes verf, maar kunnen de mengkleuren niet waarnemen.
+Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
+````
 
 In het oog van de bidsprinkhaankreeft vind je dus veel meer verschillende soorten lichtgevoelige cellen. Toch kun jij beter kleuren onderscheiden dan de bidsprinkhaankreeft.
 
@@ -304,8 +305,7 @@ Voor deze kleine proef heb je nodig:
 - een rode en een groene of blauw led
 - een rood lampje
 - een uv-zaklamp
-
-een knoopcelbatterij
+- een knoopcelbatterij
 
 Uitvoering:
 
