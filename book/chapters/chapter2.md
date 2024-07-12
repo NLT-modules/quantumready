@@ -218,11 +218,9 @@ b. Leg dat uit met behulp van de grafiek in [figuur 2.9](fig2.9).
 
 In de video bij de inleiding van dit hoofdstuk heb je al kennis kunnen maken met de bidsprinkhaankreeft. Vreemde naam trouwens: het is geen sprinkhaan en geen kreeft. Lees onderstaande tekst over de ogen van dit diertje.
 
-````{note}
-$\textbf{De ogen van de bidsprinkhaankreeft}$
- 
+
+>$\textbf{De ogen van de bidsprinkhaankreeft}$<br>
 In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotoreceptorklassen, waaronder vier die uv-licht kunnen detecteren. Kun je je voorstellen wat een bidsprinkhaankreeft aan kleuren kan ontwaren!
- 
 (fig2.1)=
 <div style="display: flex; justify-content: center;">
     <figure>
@@ -231,10 +229,10 @@ In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotorece
     </figure>
 </div>
 
-Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het onderscheiden van subtiele kleurverschillen. Mensen kunnen kleuren onderscheiden waarvan de golflengte één tot vier nanometer verschilt. Bidsprinkhaankreeften kunnen dat nog niet met kleuren die tussen twaalf en vijfentwintig nanometer uit elkaar liggen, ongeveer het verschil tussen zuiver geel en oranje. Zij zien als het ware de kleuren van een setje van twaalf verschillende potjes verf, maar kunnen de mengkleuren niet waarnemen.
+> Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het onderscheiden van subtiele kleurverschillen. Mensen kunnen kleuren onderscheiden waarvan de golflengte één tot vier nanometer verschilt. Bidsprinkhaankreeften kunnen dat nog niet met kleuren die tussen twaalf en vijfentwintig nanometer uit elkaar liggen, ongeveer het verschil tussen zuiver geel en oranje. Zij zien als het ware de kleuren van een setje van twaalf verschillende potjes verf, maar kunnen de mengkleuren niet waarnemen.
+>
+> Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
 
-Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
-````
 In het oog van de bidsprinkhaankreeft vind je dus veel meer verschillende soorten lichtgevoelige cellen. Toch kun jij beter kleuren onderscheiden dan de bidsprinkhaankreeft.
 a) Leg met behulp van de theorie eerder beschreven uit hoe je met slechts drie soorten kegeltjes de kleuren geel en violet kunt zien.
 Elk van de lichtgevoelige cellen van de bidsprinkhaankreeft is gevoelig voor een net iets andere golflengte. In [figuur 2.9](fig2.9) staat de gevoeligheid van de drie kegeltjes in mensenogen.
