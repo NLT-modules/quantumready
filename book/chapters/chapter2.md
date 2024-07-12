@@ -235,19 +235,12 @@ Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het
 
 Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
 ````
-
 In het oog van de bidsprinkhaankreeft vind je dus veel meer verschillende soorten lichtgevoelige cellen. Toch kun jij beter kleuren onderscheiden dan de bidsprinkhaankreeft.
-
 a) Leg met behulp van de theorie eerder beschreven uit hoe je met slechts drie soorten kegeltjes de kleuren geel en violet kunt zien.
-
 Elk van de lichtgevoelige cellen van de bidsprinkhaankreeft is gevoelig voor een net iets andere golflengte. In [figuur 2.9](fig2.9) staat de gevoeligheid van de drie kegeltjes in mensenogen.
-
 b) Maak een schets hoe jij denkt dat de grafiek er voor de 12 lichtgevoelige cellen van de bidsprinkhaankreeft eruit ziet. Geef kort een motivatie voor je schets.
-
 c) Leg met behulp van jouw schets en het artikel uit dat de hersenen van de bidsprinkhaankreeft niet veel doen aan het verwerken van de informatie, zoals wel het geval is in de hersenen van mensen.
-
 Doordat er minder verwerking plaats vindt in de hersenen van de bidsprinkhaankreeft wordt het signaal veel sneller verwerkt dan bij de mens.
-
 d) Noem een evolutionair voordeel van deze snelle verwerking.
 ```
 
