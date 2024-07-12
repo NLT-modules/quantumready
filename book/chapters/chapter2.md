@@ -33,23 +33,6 @@ b)	Leg uit met welk biologisch proces de ontwikkeling van verschillende zintuige
 
 De haartjes van de bij gaan bewegen door de invloed van geladen deeltjes die (op afstand) een elektrisch veld veroorzaken. Om een beweging in gang te zetten is een energieomzetting nodig: de energie die zit opgeslagen in het elektrisch veld wordt omgezet in bewegingsenergie van de haartjes. Je kunt die energie transporteren van A naar B. Dat gebeurt via een verschijnsel waar je al enigszins bekend mee bent uit het dagelijks leven: licht.
 
-<!-- 
-```
-Commented [RO26]: Er is vast een spannendere titel te
-bedenken
-```
-
-Commented [LK27]: Dit (en het beeld en tekst eronder)
-
-zou de inleiding kunnen zijn van $\mathrm{H} 2$.
-
-Commented [LK28]: afmetingen erbij zetten?
-
-Commented rRO29R281: Goed idee moet ik eens
-
-opzoeken -->
-
-
 De natuur heeft vele verschillende manieren gevonden om dat licht waar te nemen. Kijk daarover [onderstaande video](vid2.1). Later in dit hoofdstuk bekijk je de ogen van een van de dieren uit de video.
 (vid2.1)=
 <div style="display: flex; justify-content: center;">
@@ -64,12 +47,7 @@ De natuur heeft vele verschillende manieren gevonden om dat licht waar te nemen.
     </div>
 </div>
 
-```{code-cell} ipython3
-:tags: [remove-input]
-from IPython.display import YouTubeVideo
-VideoWidth=600
-YouTubeVideo("LIfKk37bkyk", width=VideoWidth, align='center')
-```
+<iframe width="553" height="445" src="https://www.youtube.com/embed/LIfKk37bkyk" title="The Amazing Ways Animals See the World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Licht: Kleur, golflengte en frequentie
 
@@ -107,7 +85,7 @@ De regenboog wordt traditioneel verdeeld in zeven kleuren. Welke kleuren zijn da
 
 Met licht bedoelen we meestal zichtbaar licht. Licht ontstaat door een regelmatige verstoring in het elektrisch veld. Een bij kan bijvoorbeeld ook een willekeurige verstoring in het elektrisch veld waarnemen, maar dat is een ander soort die we geen licht zouden noemen. Die regelmatige verstoring wordt elektromagnetische straling genoemd. Naast zichtbaar licht zijn er ook vormen van elektromagnetische straling die niet zichtbaar zijn voor mensen. Als we ze wel zouden kunnen zien, dan zou je in [figuur 2.2](fig2.2) ultraviolet links van de regenboog nog violet zien en infrarood rechts van rood.
 
-Dat de verstoring in het elektrische veld regelmatig is betekent dat het een bepaalde frequentie heeft: het aantal keer dat het veld per seconde verandert. Voor de grootheid frequentie wordt de letter $f$ gebruikt en je meet het in de eenheid hertz, afgekort met $\mathrm{Hz}$. De hertz is gelijk aan de eenheid 'per seconde', dus $\mathrm{Hz}=\frac{1}{{ }^{s}}$ ”' . Elke kleur heeft zo een andere frequentie. Rood licht heeft bijvoorbeeld een frequentie van rond de $4,4 \cdot 10^{12} \mathrm{~Hz}$. Vergelijk die frequentie maar eens met je hartslag: in rust zo'n $60 \mathrm{~Hz}$.
+Dat de verstoring in het elektrische veld regelmatig is betekent dat het een bepaalde frequentie heeft: het aantal keer dat het veld per seconde verandert. Voor de grootheid frequentie wordt de letter $f$ gebruikt en je meet het in de eenheid hertz, afgekort met $\mathrm{Hz}$. De hertz is gelijk aan de eenheid 'per seconde', dus $\mathrm{Hz}=\frac{1}{{ }^{s}}$. Elke kleur heeft zo een andere frequentie. Rood licht heeft bijvoorbeeld een frequentie van rond de $4,4 \cdot 10^{12} \mathrm{~Hz}$. Vergelijk die frequentie maar eens met je hartslag: in rust zo'n $60 \mathrm{~Hz}$.
 
 Het bijzondere van elektromagnetische straling is dat de trilling zich altijd voortplant met de lichtsnelheid: $v=c=3,0 \cdot 10^{8} \mathrm{~m} / \mathrm{s}$. Doordat de trilling zich voortplant ontstaat er een golflengte. Je kunt dat vergelijken met wat er in een heel lang touw gebeurt dat je aan een kant regelmatig op en neer beweegt: een trilling ([figuur 2.3](fig2.3)). Die trilling zal zich ook door het touw verplaatsen. Maar niet elk punt op het touw trilt op het zelfde moment in dezelfde richting. Er zit een vertraging in. Door die vertraging ontstaat er een golf in het touw. De lengte van één zo'n golf heet een golflengte. Voor de grootheid golflengte wordt de Griekse letter $\lambda$ gebruikt (spreek uit: lambda). De eenheid is de meter. De golflengte is gelijk aan de afstand die het licht in één trilling aflegt.
 
@@ -179,17 +157,6 @@ Bepaal de breedte en lengte van de cel aangegeven met $b$.
     </figure>
 </div>
 ```
-<!-- Commented [RO35R34]: Integratietijd camera vs. kikker
-
-Wat leren Iln. Over de biologie dat ze in een technische toepassing nodig hebben?
-
-Commented [RO36]: Suggestie: korter door de bocht opschrijven. Verschillende kleuren onderscheiden bestaat uit meerdere stappen. Een van die stappen is licht en donker onderscheiden (en dat gaan we nu eerst doen)
-
-Commented [LK37]: Inhoudelijk controleren
-
-Commented [RO38R37]: Zijn staafjes inherent gevoeliger dan kegeltjes of is het 't systeem dat er achter zit met 'dataverwerking'
-
-Commented [RO39]: Vertaling nodig[^3] -->
 
 Hoewel kegeltjes en staafjes verschillende functies hebben, is hun werking gebaseerd op hetzelfde principe. Een lichtgevoelig molecuul (retinal) zit opgevouwen binnenin een groot eiwitmolecuul (opsine). Deze combinatie heet rodopsine ([figuur 2.6](fig2.6)). Als retinal lichtenergie opneemt dan verandert het van vorm ([figuur 2.7](fig2.7)). Hierdoor past het niet meer in de opsine. Zo valt het rodopsine uit elkaar en dat is het begin van het signaal dat naar de hersenen wordt gestuurd dat er licht is waargenomen.
 
@@ -209,21 +176,6 @@ Hoewel kegeltjes en staafjes verschillende functies hebben, is hun werking gebas
     </figure>
 </div>
 
-<!-- ```
-Commented [LK40]: Nog even de schaal weergeven in de
-```
-
-afbeelding
-
-Commented [RO41]: Bijna niet te zien
-
-Commented [LK42R41]: In figuur omcirkelen b.v.
-
-Commented [LK43]: Figuur zelf maken
-
-Commented [LK44]: 11- weglaten? Roept vragen op
-
-all-trans retinal -->
 (ex2.5)=
 ```{exercise} Lichtgevoelig molecuul: retinal
 
@@ -255,28 +207,6 @@ Met die drie kegeltjes kun je veel meer kleuren zien dan alleen blauw, groen en 
     </figure>
 </div>
 
-<!-- 
-Commented [LK45]: Soms is er een verbinding met een $\mathrm{H}$ atoom.
-
-## Commented [LK46]: Oude opmerking Rutger:
-
-ik zou toch ook graag nog iets doen met dit artikel: Frog eyes show prowess as quantum sensors https://pubs.aip.org /physicstoday/article/67/7/16/414771/Frog-eyes-show prowess-as-quantum-sensors
-
-Commented [RO47]: Voor zo ver ik heb kunnen nagaan. Klopt dit?Commented [LK48]: Het is toch wat nauwkeuriger om te
-zeggen dat een gevoelig is voor vooral rood licht, etc.?
-Anders lijkt het of je rood ziet dankzij dat ene rode kegeltje.
-Maar je ziet rood doordat m.n. het rode kegeltje geactiveerc
-wordt.
-Commented [RO49R48]: Prima, make it so
-
-Commented [LK48]: Het is toch wat nauwkeuriger om te zeggen dat een gevoelig is voor vooral rood licht, etc ? Anders lijkt het of je rood ziet dankzij dat ene rode kegeltje. Maar je ziet rood doordat m.n. het rode kegeltje geactiveer wordt.
-
-Commented [RO49R48]: Prima, make it sc
-
-Commented [LK50]: Aangepast; hier past nog een opgave bij hoe je dan kleur ziet en dat het te maken heeft met het samenspel van deze drie kegeltjes.
-
-Commented [RO51]: Cyaan vlak toevoegen (meester, wat is cyaan?) -->
-
 (fig2.9)=
 <div style="display: flex; justify-content: center;">
     <figure>
@@ -284,9 +214,6 @@ Commented [RO51]: Cyaan vlak toevoegen (meester, wat is cyaan?) -->
         <figcaption>Figuur 2.9 De gevoeligheid van kegeltjes en staafjes als functie van kleur. (Variatie op Bowmaker \& Dartnall CC BY-SA 3.0 https://commons.wikimedia.org/wiki/File:Cone-response-uk.svg)</figcaption>
     </figure>
 </div>
-
-
-<!-- Commented [RO53]: Rood Groen beperking (kleurenblind) komt door niet onderscheiden rood en groen Oplossing: bril met (smal) band stop filter. [zie opdracht 2.9] -->
 
 (ex2.7)=
 ```{exercise} Lichtgevoeligheid staafjes 
@@ -320,6 +247,8 @@ Toch maakt het schaaldiertje het niet zo bont: ze zijn ontstellend slecht in het
 
 Bron: Esger Brunner, Nederlands Tijdschrift voor Natuurkunde
 ------------------------------------------
+
+```{exercise}
 In het oog van de bidsprinkhaankreeft vind je dus veel meer verschillende soorten lichtgevoelige cellen. Toch kun jij beter kleuren onderscheiden dan de bidsprinkhaankreeft.
 
 a) Leg met behulp van de theorie eerder beschreven uit hoe je met slechts drie soorten kegeltjes de kleuren geel en violet kunt zien.
