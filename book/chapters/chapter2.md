@@ -7,15 +7,15 @@ In het vorige hoofdstuk heb je kennisgemaakt met een toepassing van de quantumme
 (fig2.1)=
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=311&width=305&top_left_y=895&top_left_x=196" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=311&width=305&top_left_y=895&top_left_x=196" alt="AFM C" style="height: 200px;">
         <figcaption>Figuur 2.1a: AFMopname van een koolstof-molecuul ( $2 \mathrm{~nm}$ breed).</figcaption>
     </figure>
     <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=314&width=417&top_left_y=894&top_left_x=500" alt="Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci." style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=314&width=417&top_left_y=894&top_left_x=500" alt="Bladgroencellen mos." style="height: 200px;">
         <figcaption>Figuur 2.1b: Bladgroencellen in de mossoort Plagiomnium affine. Elke groene stip heeft een diameter van $5 \mu \mathrm{m}$.</figcaption>
     </figure>
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=320&width=457&top_left_y=894&top_left_x=914" alt="Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903." style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-12.jpg?height=320&width=457&top_left_y=894&top_left_x=914" alt="beerdiertje" style="height: 200px;">
         <figcaption>Figuur 2.1c: Een beerdiertje onder de microscoop (lengte $0.3 \mathrm{~mm}$ ).</figcaption>
     </figure>
 </div>
@@ -50,7 +50,7 @@ Commented rRO29R281: Goed idee moet ik eens
 opzoeken -->
 
 
-De natuur heeft vele verschillende manieren gevonden om dat licht waar te nemen. Kijk daarover onderstaande video. Later in dit hoofdstuk bekijk je de ogen van een van de dieren uit de video.
+De natuur heeft vele verschillende manieren gevonden om dat licht waar te nemen. Kijk daarover [onderstaande video](vid2.1). Later in dit hoofdstuk bekijk je de ogen van een van de dieren uit de video.
 (vid2.1)=
 <div style="display: flex; justify-content: center;">
     <div style="position: relative; width: 70%; height: 0; padding-bottom: 56.25%;">
@@ -79,8 +79,8 @@ In [figuur 2.2](fig2.2) zie je een deel van een regenboog. Licht van de zon word
 
 (fig2.2)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-13.jpg?height=568&width=759&top_left_y=1686&top_left_x=180" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-13.jpg?height=568&width=759&top_left_y=1686&top_left_x=180" alt="Regenboog na storm" style="height: 200px;">
         <figcaption>Figuur 2.2 Regenboog na een storm door Ben Njeri.</figcaption>
     </figure>
 </div>
@@ -113,8 +113,8 @@ Het bijzondere van elektromagnetische straling is dat de trilling zich altijd vo
 
 (fig2.3)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-14.jpg?height=461&width=1187&top_left_y=1620&top_left_x=183" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-14.jpg?height=461&width=1187&top_left_y=1620&top_left_x=183" alt="Voortplanting trilling in touw" style="height: 200px;">
         <figcaption>Figuur 2.3: Een trilling plant zich voort in een touw. (Bron: https://evantoh23.wordpress.com/2011/07/29/general-wave-properties-rope-wave/, rechten onbekend)</figcaption>
     </figure>
 </div>
@@ -152,8 +152,8 @@ Om licht van donker te onderscheiden moet het oog lichtenergie opnemen en omzett
 
 (fig2.4)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-15.jpg?height=315&width=561&top_left_y=1784&top_left_x=179" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-15.jpg?height=315&width=561&top_left_y=1784&top_left_x=179" alt="doorsnede oog" style="height: 200px;">
         <figcaption>Figuur 2.4 Een schematische doorsnede van het oog, waarin ook het netvlies is aangegeven. (CC BY 3.0 door Cenveo https://www.coursehero.com/study-guides/cuny-csi-ap-1-2/special-senses-vision/ )</figcaption>
     </figure>
 </div>
@@ -172,8 +172,8 @@ Bepaal de breedte en lengte van de cel aangegeven met $b$.
 
 (fig2.5)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=380&width=531&top_left_y=684&top_left_x=197" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=380&width=531&top_left_y=684&top_left_x=197" alt="SEM kegeltjes en staafjes oog" style="height: 200px;">
         <figcaption>Figuur 2.5 Een afbeelding van kegeltjes en staafjes gemaakt met een elektronenmicroscoop. De kleuren zijn niet echt maar later toegevoegd. Vergroting 4000× (nietrechtenvrij!) https://www.sciencephoto.com/media/308755/view/false-colour-sem-of-rods-and-cones-of-theretina</figcaption>
     </figure>
 </div>
@@ -194,16 +194,16 @@ Hoewel kegeltjes en staafjes verschillende functies hebben, is hun werking gebas
 
 (fig2.6)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=382&width=249&top_left_y=1511&top_left_x=181" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=382&width=249&top_left_y=1511&top_left_x=181" alt="Rodopsine en retinal" style="height: 200px;">
         <figcaption>Figuur 2.6 Rodopsine met in het midden retinal (rode bolletjes). [publiek domein]</figcaption>
     </figure>
 </div>
 
 (fig2.7)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=180&width=674&top_left_y=1972&top_left_x=220" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-16.jpg?height=180&width=674&top_left_y=1972&top_left_x=220" alt="cis-retinalmolecuul trans-retinal" style="height: 200px;">
         <figcaption>Figuur 2.7 cis-retinalmolecuul absorbeert licht en verandert in trans-retinal.</figcaption>
     </figure>
 </div>
@@ -248,8 +248,8 @@ Met die drie kegeltjes kun je veel meer kleuren zien dan alleen blauw, groen en 
 
 (fig2.8)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-17.jpg?height=525&width=594&top_left_y=1779&top_left_x=183" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-17.jpg?height=525&width=594&top_left_y=1779&top_left_x=183" alt="Absorptie van licht door een staafje als functie van de golflengte" style="height: 200px;">
         <figcaption>Figuur 2.8 Absorptie van licht door een staafje als functie van de golflengte.</figcaption>
     </figure>
 </div>
@@ -278,8 +278,8 @@ Commented [RO51]: Cyaan vlak toevoegen (meester, wat is cyaan?) -->
 
 (fig2.9)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=609&width=922&top_left_y=549&top_left_x=179" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=609&width=922&top_left_y=549&top_left_x=179" alt="De gevoeligheid van kegeltjes en staafjes als functie van kleur." style="height: 200px;">
         <figcaption>Figuur 2.9 De gevoeligheid van kegeltjes en staafjes als functie van kleur. (Variatie op Bowmaker \& Dartnall CC BY-SA 3.0 https://commons.wikimedia.org/wiki/File:Cone-response-uk.svg)</figcaption>
     </figure>
 </div>
@@ -309,8 +309,8 @@ In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotorece
 
 (fig2.1)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=237&width=348&top_left_y=1960&top_left_x=206" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-18.jpg?height=237&width=348&top_left_y=1960&top_left_x=206" alt="Ogen van de bidsprinkhaan garnaal" style="height: 200px;">
         <figcaption>Figuur 2.10 Ogen van de bidsprinkhaan garnaal door Daniel Sasse (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Mantis-Shrimp-Eyes.jpg</figcaption>
     </figure>
 </div>
@@ -372,8 +372,8 @@ In [Opdracht 1.7](ex1.7) heb je al een eerste sensor gemaakt. Die zette een vera
 In de sensor van [Opdracht 1.7](ex1.7) zat ook een led: die zette het elektrische signaal om in een lichtsignaal. Led is een afkoring van light emitting diode (vertaling: licht uitzendende diode). Een diode is, net als een transistor, een elektrische component die gemaakt kan worden van halfgeleiders. In [figuur 2.11](fig2.11) zie je een schematische weergave van een led. Het plastic omhulsel zorgt ervoor dat het licht gebundeld wordt en beschermt tegelijkertijd de diode zelf. Merk op dat een led twee aansluitingen heeft die niet gelijk zijn. De led geeft alleen licht als deze goed is aangesloten: het lange pootje is de plus, het korte de min. Bovendien kun je de min-kant herkennen doordat het omhulsel aan die kant is afgeplat.
 (fig2.11)=
 <div style="display: flex; justify-content: center;">
-    <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-20.jpg?height=325&width=271&top_left_y=1214&top_left_x=184" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+    <figure>
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-20.jpg?height=325&width=271&top_left_y=1214&top_left_x=184" alt="Schematische weergave van een led" style="height: 200px;">
         <figcaption>Figuur 2.11 Schematische weergave van een led.</figcaption>
     </figure>
 </div>
@@ -417,7 +417,7 @@ Zie [figuur 2.12](fig2.12) voor de proefopstelling. Er zijn vier leds parallel a
 (fig2.12)=
 <div style="display: flex; justify-content: center;">
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-21.jpg?height=349&width=1188&top_left_y=862&top_left_x=200" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-21.jpg?height=349&width=1188&top_left_y=862&top_left_x=200" alt="De demonstratieopstelling met vier leds" style="height: 200px;">
         <figcaption>Figuur 2.12 De demonstratieopstelling met vier leds</figcaption>
     </figure>
 </div>
@@ -457,7 +457,7 @@ In deze formule is $q$ de lading van het elektron dat de oversteek tussen de twe
 (fig2.13)=
 <div style="display: flex; justify-content: center;">
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=345&width=1094&top_left_y=884&top_left_x=184" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=345&width=1094&top_left_y=884&top_left_x=184" alt="Schematische weergave van de twee halfgeleidende materialen in een led/diode." style="height: 200px;">
         <figcaption>Figuur 2.13 Schematische weergave van de twee halfgeleidende materialen in een led/diode.</figcaption>
     </figure>
 </div>
@@ -466,7 +466,7 @@ We kunnen dit alles samenvatten met het energiediagram in [figuur 2.14](fig2.14)
 (fig2.14)=
 <div style="display: flex; justify-content: center;">
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=257&width=302&top_left_y=1571&top_left_x=183" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-22.jpg?height=257&width=302&top_left_y=1571&top_left_x=183" alt="Energieniveauschema voor een led." style="height: 200px;">
         <figcaption>Figuur 2.14 Energieniveauschema voor een led.</figcaption>
     </figure>
 </div>
@@ -517,7 +517,7 @@ d) Schets op basis van je resultaten uit [Opdracht 2.12](ex2.12) de stroom-spann
 (fig2.15)=
 <div style="display: flex; justify-content: center;">
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-23.jpg?height=524&width=1208&top_left_y=934&top_left_x=180" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-23.jpg?height=524&width=1208&top_left_y=934&top_left_x=180" alt="De stroom-spanning karakteristiek van een diode" style="height: 200px;">
         <figcaption>Figuur 2.15 De stroom-spanning karakteristiek van een diode (eigen werk)</figcaption>
     </figure>
 </div>
@@ -631,7 +631,7 @@ Hacking STEM project van Microsoft waarbij een Arduino data verzameld die live w
 (fig2.16)=
 <div style="display: flex; justify-content: center;">
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-26.jpg?height=454&width=560&top_left_y=567&top_left_x=771" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-26.jpg?height=454&width=560&top_left_y=567&top_left_x=771" alt="Aangesloten opstelling spanningsmeter en twee voor de gelijkspanningsbron." style="height: 200px;">
         <figcaption>Figuur 2.16 Aangesloten opstelling spanningsmeter en twee voor de gelijkspanningsbron.</figcaption>
     </figure>
 </div>

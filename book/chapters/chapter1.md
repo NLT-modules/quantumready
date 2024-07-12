@@ -35,23 +35,6 @@ In 1903 voeren de gebroeders Wright de eerste gemotoriseerde vliegtuigvlucht uit
 </div> 
 
 
-<!-- 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-    <div style="text-align: center;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184" alt="De val van Icarus, geschilderd door Jacob Peter Gowy" style="height: 200px;">
-        <p>Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17<sup>e</sup> eeuw).</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=311&width=397&top_left_y=1895&top_left_x=518" alt="Vleugelontwerp door Leonardo da Vinci" style="height: 200px;">
-        <p>Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci.</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=317&width=434&top_left_y=1892&top_left_x=934" alt="De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903" style="height: 200px;">
-        <p>Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.</p>
-    </div>
-</div> -->
-
-
 <!-- Commented [LK1]: Hier nog een startopdracht van maken. Mede n.a.v. feedback Suzanne Calabretta: In hoofdstuk 1 zou mijns inziens moeten worden uitgelegd a) wat NV centers zijn
 
 b) hoe biomimetisch onderzoek en quantum technologie relevant zijn voor onderzoek aan/ begrip van de NV centers. Vervolgens kan kort worden aangestipt wat quantum sensoren zijn, welke kwantum sensoren een rol spelen en wat kwantum biomimetisch onderzoek behelst. Nu wordt erin Hoofdstuk 1 begonnen met voorbeelden (die niets te maken hebben met kwantum) van biomimetische technologie en is er een korte (erg oppervlakkige) definitie van kwantum fysica (1.6) met kwantum sensor toepassing, het is niet duidelijk waarom deze onderwerpen behandeld worden en wat het hoofd thema is van de module.
