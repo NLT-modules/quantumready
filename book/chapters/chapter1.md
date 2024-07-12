@@ -34,23 +34,6 @@ In 1903 voeren de gebroeders Wright de eerste gemotoriseerde vliegtuigvlucht uit
     </figure>
 </div> 
 
-
-<!-- Commented [LK1]: Hier nog een startopdracht van maken. Mede n.a.v. feedback Suzanne Calabretta: In hoofdstuk 1 zou mijns inziens moeten worden uitgelegd a) wat NV centers zijn
-
-b) hoe biomimetisch onderzoek en quantum technologie relevant zijn voor onderzoek aan/ begrip van de NV centers. Vervolgens kan kort worden aangestipt wat quantum sensoren zijn, welke kwantum sensoren een rol spelen en wat kwantum biomimetisch onderzoek behelst. Nu wordt erin Hoofdstuk 1 begonnen met voorbeelden (die niets te maken hebben met kwantum) van biomimetische technologie en is er een korte (erg oppervlakkige) definitie van kwantum fysica (1.6) met kwantum sensor toepassing, het is niet duidelijk waarom deze onderwerpen behandeld worden en wat het hoofd thema is van de module.
-
-Hier onder wat aantekeningen.
-
-Elevator pitch (achtig). Dit in aangepaste vorm is misschien iets voor de inleiding op de NLT-module.
-
-We leren van de natuur voor onze technische toepassingen Veel moderne technieken/toepassingen zijn afhankelijk van kennis van interactie tussen licht en materie op atomaire en moleculaire schaal. De natuurkunde daarvan is de quantummechanica.
-
-In deze NLT module laat je je inspireren door de natuur voor gebruik in technologische toepassingen. Gaandeweg leer je zo ook hoe de natuur op atomaire schaal werkt.
-
-Commented [LK2]: Om de "we" vorm weg te werken e omdat er
-
-Commented [LK3]: Als je dat bedoelt -->
-
 ```{exercise} Nog Een Betere Vleugel
 Rond 1970 stelt Richard Whitcomb, ingenieur bij NASA, voor het ontwerp van een vliegtuigvleugel aan te passen zodat deze meer lijkt op de vleugel van een zwevende adelaar. Zie [figuur 1.2 a t/m c](fig1.2).
 
@@ -82,16 +65,9 @@ Zoek informatie in ten minste drie verschillende bronnen om in je eigen woorden 
 Probeer de puzzle hieronder op te lossen. Links vind je 9 boxen met daarin een omschrijving van technologische toepassing geïnspireerd op een dier/plant, rechts vind je 9 verschillende dieren/planten die bij een van deze omschrijving hoort. Probeer de goede plant/dier bij de goede omschrijving te vinden. 
 Een voorbeeld: De wateropslag voor hergebruik in energiecentrales is geinspireerd door de bij.
 <iframe src="https://tudelft.h5p.com/content/1292307606531729577/embed" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
 ```
-<!--Niet al deze fotos zijn nu correct, ABC moeten gesplit worden, net als GHI-->
 
-<!-- Commented [LK4]: Uiteindelijk moeten we de opdrachten denk ik een andere achtergrondkleur geven, zodat duidelijk is waar de tekst weer verder gaat.
-
-Commented [RO5R4]: Eens. Aan het eind een vormgever (TA van IO of zo?) aan de slag zetten.
-
-Commented [LK6]: Alternatief: laat drie leerlingen elk één andere bron vinden. -->
-
+(ex1.4)=
 ```{exercise} Match de natuur en de toepassing (vervolg)
 
 In [opdracht 1.3](ex1.3) heb je kennis gemaakt met een aantal voorbeelden van biomimetica. Bij ieder voorbeeld is een video beschikbaar die je van de docent krijgt.
@@ -113,26 +89,13 @@ Waarom de cyphochilus kever uit [opdracht 1.3](ex1.3) wit is kun je niet zo makk
 
 Je zult in de module voortdurend gebruik maken van natuurkundige begrippen en principes. Een voorbeeld daarvan, wat je in het volgende hoofdstuk ook zal tegenkomen, is het begrip elektrisch veld. Daarom kijk je in de volgende paragraaf wat dieper naar het voorbeeld van de bij uit [opdracht 1.3](ex1.3).
 
-<!-- 
-```
-Commented [LK7]: Bron:
-https://pxhere.com/en/photo/671272
-CCO 1.0
-
-``` -->
-
-<!-- ![](https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-06.jpg?height=37&width=286&top_left_y=620&top_left_x=1539)
-Commented [LK8]: lets gerichtere vraag, maar ik ben no
-niet tevreden. De vraag is: wat willen we dat leerlingen toelichten?
-
-Commented [LK9]: Ik denk dat het bruggetje meer is: We gaan biologische systemen op microscopische schaal gebruiken als inspiratie voor technologische toepassingen. Daarvoor is nieuwe natuurkunde nodig: de quantummechanica. Vliegen was alleen een voorbeeld voor biomimetica. Het voorbeeld van de kever en het water is een voorbeeld van een microsopische toepassing.[^0] -->
-
 (E-veld)=
 ## Het elektrisch veld
 
 Lees onderstaand artikel.
 
-``` Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie [figuur 1.3](fig1.3)).
+```{admonition}
+Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drinken. Maar we gebruiken dat water ook voor heel veel andere toepassingen. Zo wordt in de Verenigde Staten maar liefst $39 \%$ van al het zoete water gebruikt voor het koelen van energiecentrales. Dat water ontsnapt via grote koeltorens naar de atmosfeer (zie [figuur 1.3](fig1.3)).
 
 (fig1.3)=
 (fig1.4)=
@@ -154,28 +117,6 @@ https://news.mit.edu/2018/new-system-recovers-fresh-water-power-plants-0608
 ```
 
 Elektrisch geladen deeltjes, zoals het water en het net, hoeven elkaar niet aan te raken om elkaar te kunnen beïnvloeden. Dat komt omdat ieder elektrisch geladen deeltje een elektrisch veld zich heen heeft. Dat veld kun je niet zien met het blote oog of onder een microscoop. Maar je kunt wel voelen dat het er is!
-
-<!-- Commented [LK11]: Ik vind de uitwerking van $7 \mathrm{H}$ hieronder nog niet zo duidelijk terug komen. Het gaat in de toepassing meer om de aantrekkingskracht en het blijven plakken van stuifmeel. In de uitwerking hier onder meer over het waarnemen van het elektrisch veld. Nog geen suggestie hoe het anders te doen.
-
-Commented [LK12]: Dit is een beetje een sprong.
-
-Commented [RO13R12]: Ja dat klopt. Komt omdat dit er later bij is geschreven. Ik doe een poging het wat te soepele te maken.
-
-Commented [LK14]: Bron
-
-Commented [LK15]: Het nieuwsartikel heeft het over een ionenbundel die de druppels eerst een elektrische lading geeft. -->
-
-<!-- ```
-Commented [LK16]: Mooi voorbeeld. Dit is we
-biomimetica na de daad, want WiFi is toch niet geïnspireerc
-op communicatie tussen bijen?
-Commented [RO17R16]: Er moet hier een kleine
-conclusie bijgeschreven worden over het opvangen van
-water. Het is en uitwerking van 7H uit opdracht 1.2. Zie
-filmpje https://youtu.be/2pU5Yksk-pc
-Wifi is inderdaad een parallel die je de leerling mee zou
-kunnen geven maar het is geen biomimetica.
-``` -->
 
 (ex1.5)=
 ```{exercise} Practicum: statische elektriciteit waarnemen
@@ -201,7 +142,6 @@ Het blijkt dat bijen op een vergelijkbare manier het elektrisch veld van een blo
         <figcaption>Figuur 1.5: Simulatie van de sterkte van het elektrisch veld tussen een bloem en een bij.</figcaption>
     </figure>
 </div>
-
 
 Niet alleen tijdens het vliegen maar ook met andere bewegingen maken bijen steeds wisselende elektrische velden. Ook die wisselende elektrische velden kunnen bijen waarnemen, zowel met de haartjes als met een zintuig in hun antennes. Het vermoeden bestaat dat bijen op afstand met elkaar kunnen communiceren door verschillende elektrische signalen te herkennen.
 
