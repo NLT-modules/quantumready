@@ -63,18 +63,6 @@ In [figuur 2.2](fig2.2) zie je een deel van een regenboog. Licht van de zon word
     </figure>
 </div>
 
-<!-- Commented [LK30]: Eventueel nog inzoomen op het zien van polarisatie door de bidsrinkhaankreeft en het bouwen van een camera om gepolariseerd licht te filmen: https://www.youtube.com/watch?v=TdR3ZZ6sp80 spectrum?
-
-```
-Commented [RO32]: Ik heb het plaatje gespiegeld tov
-origineel om de kleuren op volgorde van golflengte te zetten
-zoas gebruikelijk in de grafieken met respons kegeltjes
-staafjes.
-Nadeel is dan wel weer dat we doorgaans de kleuren van de
-regenboog opnoemen van rood -> violet. Moeilijk om de
-juiste keuze te maken. Maakt het uit?
-Commented [LK33]: Dan is er geen werkblad nodig.
-``` -->
 (ex2.2)=
 ```{exercise} Kleuren van de regenboog
 
@@ -327,12 +315,6 @@ Uitvoering:
 4) Doe hetzelfde maar nu met de uv-zaklamp. Neem opnieuw waar of de rode led licht gaat geven.
 ```
 
-<!-- Commented [RO55]: Zo'n soort plaatje versimpelen en rechtenvrij regelen
-
-Commented [LK56]: Nog niet getest. N.a.v. https://www.instagram.com/richardvandewege/reel/C2|Pyfi NMai/[^4]
-
-NLT Module Quantum Ready -->
-
 (ex2.12)=
 ```{exercise} Practicum: kleur van een led
 
@@ -414,23 +396,6 @@ Tabel 2.1 Halfgeleiders gebruikt in verschillende kleuren leds.
 | groen | InGaN = Indium Gallium Nitride (stikstof) |
 | blauw | InGaN = Indium Gallium Nitride (stikstof) |
 
-<!-- Commented [LK61]: Negatieve lading, elektron gaat tegen de stroom in. Nagaan hoe we dit helder presenteren.
-
-Commented [LK62]: Weer een nieuw model voor de LED. Is dit nodig? Met p-n junctie?
-
-Commented [RO63R62]: Plan is om het model steeds verder aan te kleden, of in verdieping of in $\mathrm{H} 3$. En om he 'elektrisch' model te koppelen aan een 'fysisch' model. Ergens in de hoofdtekst moet dat misschien even aangekondigd worden (dat het model van de LED langzaam wordt opgebouwd).
-
-Commented [LK64]: Hier kan de PhET applet gebruikt worden voor halfgeleiders. Conceptueel kan het lastig zijn om het ruimtelijke beeld van de twee halfgeleiders gescheiden te zien van het energieniveauschema (waarin geen ruimtelijke informatie staat).
-
-Commented [RO65]: Dit lijkt mij genoeg voor simpe model in hoofdtekst. Vertalen en wat aanpassen (foton toevoegen)
-
-```
-Commented [LK66]: Dit roept de vraag op waarom
-eenzelfde materiaal toch een verschillende kleur kan
-```
-
-genereren.[^5] -->
-
 (ex2.13)=
 ```{exercise} Stroom-spanningskarakteristiek van een led
 
@@ -463,18 +428,6 @@ Een aquarium gevuld met water bevat een gigantische hoeveelheid watermoleculen d
 
 (opmerkingatomen)=
 > Moleculen bestaan natuurlijk weer uit atomen maar er is maar één combinatie van atomen die we een watermolecuul noemen: H$_2$O
-
-<!-- 
-```
-Commented [RO70]: Is dit in een redeneeropdracht om t
-schrijven, dat de leerling er zelf achter komt? Ik heb het
-gevoel dat dit alleen lukt met heel veel sturen, dus dan maar a
-gewoon vertellen? Of zie ik dat verkeerd?
-```
-
-Commented [LK71]: Waar is er plek voor Single
-
-Quantum? -->
 
 In het dagelijks leven merk je niet dat materie is opgebouwd uit atomen en moleculen. Dat komt omdat je bij alles wat je doet met een enorme hoeveelheid atomen tegelijkertijd in aanraking komt. In een suikerklontje zitten al gauw zo'n $3 \cdot 10^{23}$ atomen die met elkaar $7 \cdot 10^{21}$ suikermoleculen maken.
 
@@ -510,10 +463,6 @@ Omdat de energie van een enkel foton heel klein is gebruiken we in deze module w
 
 (ex2.15)=
 ```{exercise} Omrekenen joule en elektronvolt
-
-<!-- [^7]^[
-Commented [LK73]: We moeten onderscheid make tussen verwerkingsvragen en de begripsvragen die de leerlingen helpen de tekst te lezen.
-] -->
 
 De meeste halfgeleiders zijn gemaakt van silicium. Ook zonnepanelen bestaan uit kristallen van silicium. De band gap van silicium is $1,1 \mathrm{eV}$.
 
@@ -551,10 +500,6 @@ Geef voor elke toepassing aan welke eisen er zijn aan de fotodiode.
 
 Voorbeeld van a): met een fotodiode meet je hoeveel licht er van buiten een kamer binnenkomt. Als het licht wordt kan de verlichting automatisch uitgeschakeld worden. Eisen aan de fotodiode: moet gevoelig zijn voor zichtbaar licht en moet bij weinig licht een verschillend signaal af kunnen geven.
 ```
-
-<!-- [^9]Commented [LK76]: Alternatief
-
-Hacking STEM project van Microsoft waarbij een Arduino data verzameld die live wordt weergegeven in Excel: zie https://www.youtube.com/watch?v=wKIH-7ePOAK -->
 
 (ex2.17)=
 ```{exercise} Practicum: spectrometer maken
