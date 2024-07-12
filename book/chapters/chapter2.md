@@ -109,7 +109,7 @@ Met licht bedoelen we meestal zichtbaar licht. Licht ontstaat door een regelmati
 
 Dat de verstoring in het elektrische veld regelmatig is betekent dat het een bepaalde frequentie heeft: het aantal keer dat het veld per seconde verandert. Voor de grootheid frequentie wordt de letter $f$ gebruikt en je meet het in de eenheid hertz, afgekort met $\mathrm{Hz}$. De hertz is gelijk aan de eenheid 'per seconde', dus $\mathrm{Hz}=\frac{1}{{ }^{s}}$ ”' . Elke kleur heeft zo een andere frequentie. Rood licht heeft bijvoorbeeld een frequentie van rond de $4,4 \cdot 10^{12} \mathrm{~Hz}$. Vergelijk die frequentie maar eens met je hartslag: in rust zo'n $60 \mathrm{~Hz}$.
 
-Het bijzondere van elektromagnetische straling is dat de trilling zich altijd voortplant met de lichtsnelheid: $v=c=3,0 \cdot 10^{8} \mathrm{~m} / \mathrm{s}$. Doordat de trilling zich voortplant ontstaat er een golflengte. Je kunt dat vergelijken met wat er in een heel lang touw gebeurt dat je aan een kant regelmatig op en neer beweegt: een trilling ([figuur 2.3](fig2.3)). Die trilling zal zich ook door het touw verplaatsen. Maar niet elk punt op het touw trilt op het zelfde moment in dezelfde richting. Er zit een vertraging in. Door die vertraging ontstaat er een golf in het touw. De lengte van één zo'n golf heet een golflengte. Voor de grootheid golflengte wordt de Griekse letter $\lambda$ gebruikt (spreek uit: lambda). De eenheid is de meter De golflengte is gelijk aan de afstand die het licht in één trilling aflegt.
+Het bijzondere van elektromagnetische straling is dat de trilling zich altijd voortplant met de lichtsnelheid: $v=c=3,0 \cdot 10^{8} \mathrm{~m} / \mathrm{s}$. Doordat de trilling zich voortplant ontstaat er een golflengte. Je kunt dat vergelijken met wat er in een heel lang touw gebeurt dat je aan een kant regelmatig op en neer beweegt: een trilling ([figuur 2.3](fig2.3)). Die trilling zal zich ook door het touw verplaatsen. Maar niet elk punt op het touw trilt op het zelfde moment in dezelfde richting. Er zit een vertraging in. Door die vertraging ontstaat er een golf in het touw. De lengte van één zo'n golf heet een golflengte. Voor de grootheid golflengte wordt de Griekse letter $\lambda$ gebruikt (spreek uit: lambda). De eenheid is de meter. De golflengte is gelijk aan de afstand die het licht in één trilling aflegt.
 
 (fig2.3)=
 <div style="display: flex; justify-content: center;">
@@ -126,6 +126,7 @@ $$
 $$
 
 Met deze formule kun je de frequentie van rood licht omrekenen naar een golflengte.
+
 (ex2.3)=
 ```{exercise} Golfsnelheid, golflengte en frequentie
 
@@ -303,7 +304,7 @@ b. Leg dat uit met behulp van de grafiek in [figuur 2.9](fig2.9).
 In de video bij de inleiding van dit hoofdstuk heb je al kennis kunnen maken met de bidsprinkhaankreeft. Vreemde naam trouwens: het is geen sprinkhaan en geen kreeft. Lees onderstaande tekst over de ogen van dit diertje.
 
 ------------------------------------------
-## De ogen van de bidsprinkhaankreeft
+$\textbf{De ogen van de bidsprinkhaankreeft}$
 
 In het oog van bidsprinkhaankreeften bevinden zich twaalf verschillende fotoreceptorklassen, waaronder vier die uv-licht kunnen detecteren. Kun je je voorstellen wat een bidsprinkhaankreeft aan kleuren kan ontwaren!
 
@@ -370,6 +371,7 @@ Je kunt je oog dus zien als een sensor die licht meet en omzet in een signaal. J
 In [Opdracht 1.7](ex1.7) heb je al een eerste sensor gemaakt. Die zette een verandering van het elektrisch veld om in een elektrisch signaal (en vervolgens weer in licht). Die sensor maakte gebruik van een JFET en een led. Een JFET is een voorbeeld van een transistor: een component die een signaal kan versterken of kan dienen als schakelaar. Transistoren kunnen heel klein zijn: in je smartphone zitten wel 10 miljard transistoren! Al die transistoren samen zijn verantwoordelijk voor het verwerken van elektrische signalen en dat maakt allerlei bewerkingen mogelijk.
 
 In de sensor van [Opdracht 1.7](ex1.7) zat ook een led: die zette het elektrische signaal om in een lichtsignaal. Led is een afkoring van light emitting diode (vertaling: licht uitzendende diode). Een diode is, net als een transistor, een elektrische component die gemaakt kan worden van halfgeleiders. In [figuur 2.11](fig2.11) zie je een schematische weergave van een led. Het plastic omhulsel zorgt ervoor dat het licht gebundeld wordt en beschermt tegelijkertijd de diode zelf. Merk op dat een led twee aansluitingen heeft die niet gelijk zijn. De led geeft alleen licht als deze goed is aangesloten: het lange pootje is de plus, het korte de min. Bovendien kun je de min-kant herkennen doordat het omhulsel aan die kant is afgeplat.
+
 (fig2.11)=
 <div style="display: flex; justify-content: center;">
     <figure>
@@ -448,9 +450,11 @@ Beschrijf wat er veranderde aan de kleur en de felheid van de leds toen je de sp
 
 De resultaten uit [Opdracht 2.12](ex2.12) kun je met een vereenvoudigd model van de werking van een led verklaren. Een led, maar ook een diode, bestaat uit twee tegen elkaar geplaatste plakjes silicium (halfgeleiders) die elk verontreinigd zijn met een bepaalde stof om ze zo verschillende eigenschappen te geven. In het grensgebied tussen die twee materialen ontstaat daardoor een elektrisch veld dat elektronen tegenhoudt. Er is dus een blokkade waardoor er geen elektrische stroom kan lopen. Het bijzondere is dat je de hoogte van die blokkade kunt beïnvloeden tijdens de fabricage door de keuze van de verontreinigingen.
 
-Tijdens de oversteek door het grensgebied geeft een elektron een hoeveelheid elektrische energie $\Delta E_{e l}$ af in de vorm van licht. Zie [figuur 2.13](fig2.13). Om die oversteek te maken moet de spanning groot genoeg zijn: miniaal gelijk aan de drempelspanning $U_{\text {drempel }}$. Het verband tussen $U_{drempel}$ en $\Delta E_{e l}$ wordt gegeven door:
+Tijdens de oversteek door het grensgebied geeft een elektron een hoeveelheid elektrische energie $\Delta E_{e l}$ af in de vorm van licht. Zie [figuur 2.13](fig2.13). Om die oversteek te maken moet de spanning groot genoeg zijn: minimaal gelijk aan de drempelspanning $U_{\text {drempel }}$. Het verband tussen $U_{drempel}$ en $\Delta E_{e l}$ wordt gegeven door:
 
-$\Delta E_{e l}=q \cdot U_{\text {drempel }}$
+$$
+\Delta E_{e l}=q \cdot U_{\text {drempel }}
+$$
 
 In deze formule is $q$ de lading van het elektron dat de oversteek tussen de twee halfgeleiders en heeft een waarde van $-1,6 \cdot 10^{-19}$ coulomb (C). Voor deze module is het belangrijk om met vergelijking (1) te kunnen werken. Wil je meer weten over de werking van de led en het ontstaan van het grensgebied, lees dan [2.9 Verdieping: Halfgeleiders](h2.9).
 
@@ -525,7 +529,7 @@ d) Schets op basis van je resultaten uit [Opdracht 2.12](ex2.12) de stroom-spann
 
 De kleur van een led wordt bepaald door de drempelspanning. ledere keer als een elektron genoeg energie heeft om door de led heen te stromen komt er licht vrij. Boven de drempelspanning geldt: hoe hoger de spanning, hoe groter de kans dat elektronen de oversteek gaan maken. De led gaat dan dus feller branden. Je ziet in [figuur 2.15](fig2.15) dat bij een grotere spanning er meer stroom gaat lopen. De grootte van de elektrische stroom zou dus een maat kunnen zijn voor de hoeveelheid licht die de led uitzendt.
 
-Wil je beter begrijpen waarom de led pas licht gaat uitzenden boven een bepaalde drempelspanning, bestudeer dan de verdieping.
+Wil je beter begrijpen waarom de led pas licht gaat uitzenden boven een bepaalde drempelspanning, bestudeer dan de [verdieping](h2.9).
 
 ## Lichtdeeltjes: fotonen
 
