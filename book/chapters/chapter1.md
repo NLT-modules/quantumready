@@ -176,7 +176,7 @@ In deze opdracht maak je met slechts een paar onderdelen een eenvoudige sensor d
 
 | Onderdeel | Functie | Onderdeel | Functie |
 | :--- | :--- | :--- | :--- |
-| ![transistor](quantumready\book\figures\ch 1\transistor.png) | JFET Transistor: regelt de <br> stroom in het circuit. Dit is de eigenlijke sensor. |![batterij](quantumready\book\figures\ch 1\Batterij.jpg) | Levert energie om de led <br> te laten branden |  |
+| ![transistor](..\figures\ch 1\transistor.png) | JFET Transistor: regelt de <br> stroom in het circuit. Dit is de eigenlijke sensor. |![batterij](quantumready\book\figures\ch 1\Batterij.jpg) | Levert energie om de led <br> te laten branden |  |
 | ![led](quantumready\book\figures\ch 1\LED.jpg) | led: is een indicator voor <br> de hoeveelheid <br> negatieve lading. Als er <br> geen lading in de buurt <br> is dan brandt de led. De <br> lange pin is de plus (+) | ![batterijclip](quantumready\book\figures\ch 1\Batterijclip.jpg) | Batterijclip: om de batterij <br> aan te sluiten. |
 | ![weerstand](quantumready\book\figures\ch 1\resistor.jpg) | Weerstand: werkt als antenne en beschermt de transistor tegen statische elektriciteit. | ![breadboard](quantumready\book\figures\ch 1\breadboard.jpg) | Breadboard: Wordt gebruikt om de onderdelen in te klikken en met elkaar te verbinden.|
 
