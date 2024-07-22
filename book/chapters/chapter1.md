@@ -19,7 +19,7 @@ Het tragische verhaal van Icarus illustreert dat mensen al duizenden jaren fanta
 In 1903 voeren de gebroeders Wright de eerste gemotoriseerde vliegtuigvlucht uit [figuur 1.1c](fig1.1). Ze hadden in de jaren daarvoor uitgebreid gewerkt aan het ontwerpen van vleugels die tijdens de vlucht van vorm kunnen veranderen om zo het toestel stabiel te houden, net zoals vogels dat doen. Mocht je ooit in een vliegtuig bij het raam zitten let dan eens op de vleugel. Die verandert tijdens de vlucht ook van vorm.
 
 (fig1.1)=
-```{figure} quantumready\book\figures\ch1\val van icarus.jpg
+```{figure} ../figures/ch1/val van icarus.jpg
 ---
 name: val van icaurs
 ---
