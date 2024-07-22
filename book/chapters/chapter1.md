@@ -18,24 +18,19 @@ Het tragische verhaal van Icarus illustreert dat mensen al duizenden jaren fanta
 
 In 1903 voeren de gebroeders Wright de eerste gemotoriseerde vliegtuigvlucht uit [figuur 1.1c](fig1.1). Ze hadden in de jaren daarvoor uitgebreid gewerkt aan het ontwerpen van vleugels die tijdens de vlucht van vorm kunnen veranderen om zo het toestel stabiel te houden, net zoals vogels dat doen. Mocht je ooit in een vliegtuig bij het raam zitten let dan eens op de vleugel. Die verandert tijdens de vlucht ook van vorm.
 
+
 (fig1.1)=
-```{figure} ../figures/ch1/val van icarus.jpg
----
-name: val van icaurs
----
-De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)
-```
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
+        <img src="../figures/ch1/val van icarus.jpg" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
         <figcaption>Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw) </figcaption>
     </figure>
     <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=311&width=397&top_left_y=1895&top_left_x=518" alt="Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci." style="height: 200px;">
+        <img src="../figures/ch1/vleugelontwerp da vinci.jpg" alt="Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci." style="height: 200px;">
         <figcaption>Figuur 1.1b: Vleugelontwerp door Leonardo da Vinci.</figcaption>
     </figure>
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=317&width=434&top_left_y=1892&top_left_x=934" alt="Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903." style="height: 200px;">
+        <img src="../figures/ch1/vlucht gebr wright.jpg" alt="Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903." style="height: 200px;">
         <figcaption>Figuur 1.1c: De succesvolle vliegtuigvlucht van de gebroeders Wright in 1903.</figcaption>
     </figure>
 </div> 
@@ -46,15 +41,15 @@ Rond 1970 stelt Richard Whitcomb, ingenieur bij NASA, voor het ontwerp van een v
 (fig1.2)=
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184" alt="vleugel zonder aanpassingen" style="height: 200px;">
+        <img src="../figures/ch1/standaard vliegtuigvleugel.jpg" alt="vleugel zonder aanpassingen" style="height: 200px;">
         <figcaption>Figuur 1.2a: Vliegtuigvleugel zonder aanpassing.</figcaption>
     </figure>
     <figure style="margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=320&width=437&top_left_y=688&top_left_x=570" alt="adelaar" style="height: 200px;">
+        <img src="../figures/ch1/vliegende adelaar.jpg" alt="adelaar" style="height: 200px;">
         <figcaption> 1.2b: Zwevende adelaar. (Foto door Derek Keats).</figcaption>
     </figure>
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-05.jpg?height=317&width=368&top_left_y=687&top_left_x=998" alt="Whitcombs." style="height: 200px;">
+        <img src="../figures/ch1/whitcombs aanpassing.jpg" alt="Whitcombs." style="height: 200px;">
         <figcaption>Figuur 1.2c: Uiteinde van een vliegtuigvleugel met Whitcombs aanpassing.</figcaption>
     </figure>
 </div>
@@ -107,11 +102,11 @@ Van al het water op aarde is slechts $2,5 \%$ zoet water dat je zou kunnen drink
 (fig1.4)=
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
     <figure style="text-align: center; margin-right: 20px;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=508&top_left_y=1005&top_left_x=203" alt="Koeltorens" style="height: 200px;">
+        <img src="../figures/ch1/koeltorens.jpg" alt="Koeltorens" style="height: 200px;">
         <figcaption>Figuur 1.3: Water ontsnapt via koeltorens naar de atmosfeer.</figcaption>
     </figure>
     <figure>
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-07.jpg?height=383&width=568&top_left_y=1005&top_left_x=775" alt="Ingenieurs MIT" style="height: 200px;">
+        <img src="../figures/ch1/ingenieurs mit.jpg" alt="Ingenieurs MIT" style="height: 200px;">
         <figcaption>Figuur 1.4: Ingenieurs van MIT bij hun prototype. Bron: https://energy.mit.edu/news/new-systemrecovers-fresh-water-from-power-plants/</figcaption>
     </figure>
 </div>
@@ -144,7 +139,7 @@ Het blijkt dat bijen op een vergelijkbare manier het elektrisch veld van een blo
 (fig1.5)=
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
     <figure style="text-align: center;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-08.jpg?height=437&width=617&top_left_y=1181&top_left_x=180" alt="Simulation electric field" style="height: 200px;">
+        <img src="../figures/ch1/simulatie electrisch veld.png" alt="Simulation electric field" style="height: 200px;">
         <figcaption>Figuur 1.5: Simulatie van de sterkte van het elektrisch veld tussen een bloem en een bij.</figcaption>
     </figure>
 </div>
@@ -173,7 +168,7 @@ c) Maak ook een lijst met zintuigen die (sommige) dieren wel hebben maar mensen 
 (fig1.6)=
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
     <figure style="text-align: center;">
-        <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-10.jpg?height=297&width=561&top_left_y=577&top_left_x=790" alt="circuit" style="height: 200px;">
+        <img src="../figures/ch1/circuit eenvoudig sensor.png" alt="circuit" style="height: 200px;">
         <figcaption>Figuur 1.6: Een eenvoudige sensor om het elektrisch veld te meten.</figcaption>
     </figure>
 </div>
@@ -182,9 +177,9 @@ In deze opdracht maak je met slechts een paar onderdelen een eenvoudige sensor d
 
 | Onderdeel | Functie | Onderdeel | Functie |
 | :--- | :--- | :--- | :--- |
-| ![transistor](..\figures\ch 1\transistor.png) | JFET Transistor: regelt de <br> stroom in het circuit. Dit is de eigenlijke sensor. |![batterij](quantumready\book\figures\ch 1\Batterij.jpg) | Levert energie om de led <br> te laten branden |  |
-| ![led](quantumready\book\figures\ch 1\LED.jpg) | led: is een indicator voor <br> de hoeveelheid <br> negatieve lading. Als er <br> geen lading in de buurt <br> is dan brandt de led. De <br> lange pin is de plus (+) | ![batterijclip](quantumready\book\figures\ch 1\Batterijclip.jpg) | Batterijclip: om de batterij <br> aan te sluiten. |
-| ![weerstand](quantumready\book\figures\ch 1\resistor.jpg) | Weerstand: werkt als antenne en beschermt de transistor tegen statische elektriciteit. | ![breadboard](quantumready\book\figures\ch 1\breadboard.jpg) | Breadboard: Wordt gebruikt om de onderdelen in te klikken en met elkaar te verbinden.|
+| ![transistor](..\figures\ch1\transistor.png) | JFET Transistor: regelt de <br> stroom in het circuit. Dit is de eigenlijke sensor. |![batterij](..\figures\ch1\Batterij.jpg) | Levert energie om de led <br> te laten branden |  |
+| ![led](..\figures\ch1\LED.jpg) | led: is een indicator voor <br> de hoeveelheid <br> negatieve lading. Als er <br> geen lading in de buurt <br> is dan brandt de led. De <br> lange pin is de plus (+) | ![batterijclip](..\figures\ch1\Batterijclip.jpg) | Batterijclip: om de batterij <br> aan te sluiten. |
+| ![weerstand](..\figures\ch1\resistor.jpg) | Weerstand: werkt als antenne en beschermt de transistor tegen statische elektriciteit. | ![breadboard](..\figures\ch1\breadboard.jpg) | Breadboard: Wordt gebruikt om de onderdelen in te klikken en met elkaar te verbinden.|
 
 Voer de volgende opdrachten uit:
 
