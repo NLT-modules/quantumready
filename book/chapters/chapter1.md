@@ -12,13 +12,19 @@ Goed kijken naar hoe de natuur werkt kan ons helpen met het ontwikkelen van nieu
 
 ## Vliegen als voorbeeld van biomimetica
 
-In een mythe uit de Griekse oudheid maakt de uitvinder Daedalus vleugels uit veren en bijenwas voor hem en zijn zoon om van het eiland Kreta weg te kunnen vliegen. Ondanks waarschuwingen van zijn vader vliegt Icarus te dicht bij de zon waardoor de bijenwas smelt. Icarus stort neer in de Icarische Zee en verdrinkt [figuur 1.1a](fig1.1).
+In een mythe uit de Griekse oudheid maakt de uitvinder Daedalus vleugels uit veren en bijenwas voor hem en zijn zoon om van het eiland Kreta weg te kunnen vliegen. Ondanks waarschuwingen van zijn vader vliegt Icarus te dicht bij de zon waardoor de bijenwas smelt. Icarus stort neer in de Icarische Zee en verdrinkt [figuur 1.1a](fig1.1) {numref}`{number} <val van icaurs>`.
 
 Het tragische verhaal van Icarus illustreert dat mensen al duizenden jaren fantaseren over zelf kunnen vliegen. Het duikt bijvoorbeeld ook op in het werk van Leonardo Da Vinci omstreeks 1480 Hij bestudeert vogels en ontwerpt meerdere kunstvleugels [figuur 1.1b](fig1.1), inclusief een harnas om de vleugels om te doen.
 
 In 1903 voeren de gebroeders Wright de eerste gemotoriseerde vliegtuigvlucht uit [figuur 1.1c](fig1.1). Ze hadden in de jaren daarvoor uitgebreid gewerkt aan het ontwerpen van vleugels die tijdens de vlucht van vorm kunnen veranderen om zo het toestel stabiel te houden, net zoals vogels dat doen. Mocht je ooit in een vliegtuig bij het raam zitten let dan eens op de vleugel. Die verandert tijdens de vlucht ook van vorm.
 
 (fig1.1)=
+```{figure} quantumready\book\figures\ch1\val van icarus.jpg
+---
+name: val van icaurs
+---
+De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)
+```
 <div style="display: flex; justify-content: center;">
     <figure style="margin-right: 20px;">
         <img src="https://cdn.mathpix.com/cropped/2024_06_24_0f091e854944f2a35adag-03.jpg?height=308&width=317&top_left_y=1896&top_left_x=184" alt="Figuur 1.1a: De val van Icarus, geschilderd door Jacob Peter Gowy (17e eeuw)" style="height: 200px;">
